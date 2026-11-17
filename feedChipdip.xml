@@ -11375,7 +11375,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME01</id>
-<qty>46</qty>
+<qty>42</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME01</url>
 <price qty="1" costPrice="3244.22" rPrice="4055.28"/>
 <categoryId>60</categoryId>
@@ -17405,7 +17405,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>HDR10024</id>
-<qty>28</qty>
+<qty>27</qty>
 <url>https://www.prompower.ru/catalog/power-hdr/HDR10024</url>
 <price qty="1" costPrice="2449.76" rPrice="3062.2"/>
 <categoryId>29</categoryId>
@@ -17747,7 +17747,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>NDR7548</id>
-<qty>21</qty>
+<qty>20</qty>
 <url>https://www.prompower.ru/catalog/power-supply/power-ndr/NDR7548</url>
 <price qty="1" costPrice="2854.8" rPrice="3568.5"/>
 <categoryId>30</categoryId>
@@ -28944,7 +28944,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGVAE11</id>
-<qty>55</qty>
+<qty>51</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PGVAE11</url>
 <price qty="1" costPrice="1024.8" rPrice="1281.0"/>
 <categoryId>61</categoryId>
@@ -34704,7 +34704,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>KJTJ12S45MTA</id>
-<qty>130</qty>
+<qty>128</qty>
 <url>https://www.prompower.ru/catalog/sensor-cables/KJTJ12S45MTA</url>
 <price qty="1" costPrice="1396.66" rPrice="1745.82"/>
 <categoryId>36</categoryId>
@@ -90120,7 +90120,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD350KEYLED</id>
-<qty>12</qty>
+<qty>9</qty>
 <url>https://www.prompower.ru/catalog/inverters/inverter-options/PD350KEYLED</url>
 <price qty="1" costPrice="2049.6" rPrice="2562.0"/>
 <categoryId>21</categoryId>
@@ -90655,7 +90655,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH1150SFE</id>
-<qty>0</qty>
+<qty>1</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph1/PH1150SFE</url>
 <price qty="1" costPrice="96648.4" rPrice="82151.14"/>
 <categoryId>99</categoryId>
@@ -113729,7 +113729,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD150A4007B</id>
-<qty>4</qty>
+<qty>2</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd150/PD150A4007B</url>
 <price qty="1" costPrice="8711.78" rPrice="10889.72"/>
 <categoryId>70</categoryId>
@@ -114102,7 +114102,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4055B</id>
-<qty>44</qty>
+<qty>43</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4055B</url>
 <price qty="1" costPrice="29741.65" rPrice="37177.06"/>
 <categoryId>49</categoryId>
@@ -154246,7 +154246,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PKLD15MN</id>
-<qty>245</qty>
+<qty>243</qty>
 <url>https://www.prompower.ru/catalog/photo-sensors/PKLD15MN</url>
 <price qty="1" costPrice="2982.54" rPrice="2535.16"/>
 <categoryId>16</categoryId>
@@ -176139,6 +176139,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <docFile url="https://github.com/brilka/feed-for-onlinestore/raw/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf" name="Ссылка на сертификаты ТР ТС"/>
 <itemGroupId>2178</itemGroupId>
 <unitID>шт</unitID>
+<weight>12500</weight>
 </offer>
 <offer>
 <id>1LE93030DB221FA4</id>
@@ -178653,7 +178654,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN3901AF300AA0</id>
-<qty>31</qty>
+<qty>30</qty>
 <price qty="1" costPrice="1349.06" rPrice="1632.36"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -180496,7 +180497,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN2324HB320XB0</id>
-<qty>0</qty>
+<qty>2</qty>
 <price qty="1" costPrice="13848.51" rPrice="16756.7"/>
 <categoryId>47</categoryId>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
@@ -182199,7 +182200,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN2883AR020AB0</id>
-<qty>9</qty>
+<qty>8</qty>
 <price qty="1" costPrice="8512.78" rPrice="10300.46"/>
 <categoryId>47</categoryId>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
