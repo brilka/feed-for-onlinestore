@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+<name>Prompower и Unimat</name>
+<company>Мотрум</company>
+<url>https://brilka.github.io/feed-for-onlinestore/</url>
+<categories>
+<category id="44">ПЛК (программируемые логические контроллеры)</category>
+<category id="45" parentId="44">ПЛК PMP20</category>
+<category id="73" parentId="44">ПЛК PMP301</category>
+<category id="46" parentId="44">ПЛК PMP30</category>
+<category id="47" parentId="44">Модули расширения ПЛК PMP20/PMP30</category>
+<category id="74" parentId="44">Модули расширения ПЛК PMP301</category>
+<category id="75" parentId="44">Аксессуары для ПЛК</category>
+<category id="43">Панели оператора</category>
+<category id="99" parentId="43">Панели оператора PH1</category>
+<category id="100" parentId="43">Панели оператора PH</category>
+<category id="67">Промышленное компьютерное оборудование</category>
+<category id="65" parentId="67">Промышленные компьютеры</category>
+<category id="69" parentId="67">Панельные компьютеры</category>
+<category id="66" parentId="67">Промышленные мониторы</category>
+<category id="19">Промышленные коммутаторы</category>
+<category id="1">Частотные преобразователи</category>
+<category id="70" parentId="1">Преобразователи частоты PD150</category>
+<category id="49" parentId="1">Преобразователи частоты PD210</category>
+<category id="42" parentId="1">Преобразователи частоты PD310</category>
+<category id="51" parentId="1">Преобразователи частоты PD310 IP54</category>
+<category id="13" parentId="1">Преобразователи частоты PD100</category>
+<category id="14" parentId="1">Преобразователи частоты PD101</category>
+<category id="15" parentId="1">Преобразователи частоты PD110</category>
+<category id="21" parentId="1">Опции для преобразователей частоты</category>
+<category id="52">Сервосистемы</category>
+<category id="53" parentId="52">Серводвигатели</category>
+<category id="54" parentId="52">Сервоприводы</category>
+<category id="55" parentId="52">Аксессуары для сервосистем</category>
+<category id="26">Устройства плавного пуска</category>
+<category id="68" parentId="26">Софтстартер P2S-050</category>
+<category id="27" parentId="26">Софтстартер P2S-100</category>
+<category id="28" parentId="26">Софтстартер P2S-300</category>
+<category id="56" parentId="26">Опции для устройств плавного пуска</category>
+<category id="20">Электродвигатели</category>
+<category id="31" parentId="20">Электродвигатели класс энергоэффективности IE1</category>
+<category id="22" parentId="20">Опции для электродвигателей</category>
+<category id="57">Низковольтная коммутационная аппаратура PULSE</category>
+<category id="62" parentId="57">Контакторы PULSE</category>
+<category id="60" parentId="57">Автоматы защиты двигателя PULSE</category>
+<category id="63" parentId="57">Миниконтакторы PULSE</category>
+<category id="61" parentId="57">Дополнительные контактные приставки PULSE</category>
+<category id="12">Низковольтная коммутационная аппаратура</category>
+<category id="7" parentId="12">Контакторы</category>
+<category id="24" parentId="12">Миниконтакторы</category>
+<category id="8" parentId="12">Блок дополнительных контактов</category>
+<category id="5">Электромагнитные реле</category>
+<category id="9" parentId="5">Миниатюрные реле</category>
+<category id="10" parentId="5">Реле общего назначения</category>
+<category id="11" parentId="5">Тонкие реле</category>
+<category id="23" parentId="5">Колодки для реле</category>
+<category id="34" parentId="5">Аксессуары для реле</category>
+<category id="4">Модульные автоматические выключатели</category>
+<category id="33" parentId="4">Допконтакты для MCB</category>
+<category id="2">Импульсные блоки питания</category>
+<category id="29" parentId="2">Блоки питания HDR в пластиковом корпусе</category>
+<category id="101" parentId="2">Блоки питания MDR в пластиковом корпусе</category>
+<category id="30" parentId="2">Блоки питания NDR в металлическом корпусе</category>
+<category id="102">Регуляторы мощности</category>
+<category id="77">Электротехнические наполные шкафы</category>
+<category id="104">Шкафы навесные из металла</category>
+<category id="103">Шкафы навесные из нержавеющей стали</category>
+<category id="78" parentId="77">19“ комплектующие</category>
+<category id="79" parentId="77">Аксессуары</category>
+<category id="80" parentId="77">Боковые панели</category>
+<category id="81" parentId="77">Двери</category>
+<category id="82" parentId="77">Задние панели</category>
+<category id="85" parentId="77">Заземление</category>
+<category id="86" parentId="77">Каркасы</category>
+<category id="87" parentId="77">Климат + Свет</category>
+<category id="88" parentId="77">Монтажные панели</category>
+<category id="89" parentId="77">Панели основания</category>
+<category id="90" parentId="77">Пластроны</category>
+<category id="91" parentId="77">Полки</category>
+<category id="92" parentId="77">Потолочные панели</category>
+<category id="93" parentId="77">Прокладка кабеля</category>
+<category id="94" parentId="77">Сейсмостойкость</category>
+<category id="95" parentId="77">Секционирование</category>
+<category id="96" parentId="77">Соединители</category>
+<category id="97" parentId="77">Цоколи</category>
+<category id="98" parentId="77">Шасси</category>
+<category id="76">Индуктивные датчики</category>
+<category id="16">Фотоэлектрические датчики</category>
+<category id="36">Кабели для датчиков</category>
+<category id="32">Тормозные резисторы</category>
+<category id="25">Дроссели и синус-фильтры</category>
+<category id="37" parentId="25">Дроссели dU/dt</category>
+<category id="39" parentId="25">Моторные дроссели</category>
+<category id="40" parentId="25">Сетевые дроссели</category>
+<category id="41" parentId="25">Синус-фильтры</category>
+<category id="38" parentId="25">Дроссели постоянного тока</category>
+<category id="71">Тормозные модули для частотных преобразователей</category>
+<category id="72">ЭМС-фильтры</category>
+<category id="48">Коботы PROMPOWER</category>
+<category id="35">Стиль Prompower</category>
+</categories>
+<!--  список товаров к продаже  -->
+<offers>
+<offer>
+<!--  уникальный идентификатор товара поставщика. может быть буквенно-цифровой. используется для дальнейшей трансляции заказов поставщику. У Prompower и Unimat это article в API.  -->
+<id>NS2U.600</id>
+<!--  кол-во товара, доступное для продажи. В API Prompower и Unimat это instock -->
+<qty>0</qty>
+<!--  ссылка на карточку товара на сайте поставщика. -->
+<url>https://www.prompower.ru/catalog/electrical-cabinets/cab-19inch-components/NS2U.600</url>
+<!--  costPrice – цена продажи (за единицу измерения) поставщика для Stoking. Т.е. цена, по которой Поставщик продаёт товар компании Stoking.
+rPrice – рекомендуемая (прайсовая) цена продажи на сайте Stoking. В интернет-магазине нельзя указывать цену ниже рекомендованной, т.е. ниже прайсовой. Поэтому в интернет-магазине Stoking должна быть указана цена не ниже rPrice -->
+<price qty="1" costPrice="1915.17" rPrice="2030.08"/>
+<!--  принадлежность товара к категории поставщика. Код категории должен быть указан в списке categories. -->
+<categoryId>78</categoryId>
+<!--  Список ссылок на фото данного товара. -->
+<picture>https://www.prompower.ru/catalog/products/NS2U.xx.jpg</picture>
+<!--  Наименование товара. Для Prompower и Unimat это description в API  -->
+<name>Направляющая шина, жесткий монтаж, для тяжелого оборудования; 2шт; ВхГ: 2Uх600мм</name>
+<!--  Артикул (оригинальный парт номер) по каталогу производителя данного товара. Для Prompower и Unimat это title в API  -->
+<partNumber>NS2U.600</partNumber>
+<!--  Название производителя (бренда) товара. Для Prompower нужно указывать Prompower. Для Unimat нужно указывать Unimat  -->
+<vendor>Prompower</vendor>
+<!--  Код ТН ВЭД товара. У Prompower в API это tnved. -->
+<!--  Описание товара. Для Prompower и Unimat это description в API.
+Для Unimat дополнительно добавляется следующий текст:
+Модули Unimat на 100% совместимы (взаимозаменяемы) с соответствующими модулями Siemens S7-200, S7-300, S7-1200. Чтобы получить артикул Unimat, в большинстве случаев нужно у артикула Siemens заменить 6ES7- на UN-, а остальную часть артикула оставить без изменений.
+
+Данный модуль Unimat [тут нужно вставить обозначение Unimat из тега partNumber] соответствует модулю Siemens [тут нужно указать то же обозначение из тега partNumber, только нужно заменить "UN " на "6ES7"].
+
+Модули Unimat поддерживаются на складе в России. 
+Кабель Profibus и ProfiNET от Unimat соответствует кабелю Siemens.
+
+Модули UniMAT монтируются в оригинальный ПЛК Siemens, определяются средой разработки как оригинальные модули Siemens без каких-либо дополнительных манипуляций со стороны программиста.
+
+Сценарии использования модулей Unimat: 
+
++ в новых проектах (с оригинальным CPU Siemens) 
++ в проектах модернизации производства, где установлены ПЛК Siemens S7-200, S7-300 и S7-1200 и требуется их расширение (или замена модулей)
++ станции удалённого (распределённого) ввода-вывода от Unimat (Profibus; Profinet)
+  -->
+<description><![CDATA[Направляющая шина, жесткий монтаж, для тяжелого оборудования; 2шт; ВхГ: 2Uх600мм]]></description>
+<!--  список параметров товара. -->
+<param name="Ширина" unit="мм">0</param>
+<param name="Высота" unit="мм">0</param>
+<param name="Глубина" unit="мм">0</param>
+<param name="Глубина шкафа" unit="мм">0</param>
+<param name="Высота шкафа" unit="мм">0</param>
+<param name="Ширина шкафа" unit="мм">0</param>
+<!--  Дополнительные файлы для скачивания. Например, чертеж товара, файл документации (datasheet), инструкция по использованию. -->
+<docFile url="https://www.prompower.ru/docs/electrical-cabinets/ppcab_catalog.pdf" name="Электротехнические шкафы серии PPCAB. Каталог продукции"/>
+<docFile url="https://www.prompower.ru/docs/referenceList.pdf" name="Краткий референс-лист проектов по автоматизации"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf" name="Ссылка на сертификаты ТР ТС"/>
+<!--  Единица измерения товара. Допустимые значения (соглано ОКЕИ) -->
+<unitID>шт</unitID>
+<!--  Вес товара в граммах. Используется для вычисления тарифов по доставке товара. -->
+<weight>1800</weight>
+<!--  Ширина товара, в миллиметрах. В API Prompower находится в props среди остальных записей. У Unimat отсутствуют данные. -->
+<!--  Высота товара, в миллиметрах. В API Prompower находится в props среди остальных записей. У Unimat отсутствуют данные. -->
+<!--  Глубина товара, в миллиметрах. В API Prompower находится в props среди остальных записей. У Unimat отсутствуют данные. -->
+</offer>
+<offer>
+<id>NS2U.800</id>
+<qty>0</qty>
+<url>https://www.prompower.ru/catalog/electrical-cabinets/cab-19inch-components/NS2U.800</url>
+<price qty="1" costPrice="2170.68" rPrice="2300.92"/>
+<categoryId>78</categoryId>
+<picture>https://www.prompower.ru/catalog/products/NS2U.xx.jpg</picture>
+<name>Направляющая шина, жесткий монтаж, для тяжелого оборудования; 2шт; ВхГ: 2Uх800мм</name>
+<partNumber>NS2U.800</partNumber>
+<vendor>Prompower</vendor>
+<description><![CDATA[Направляющая шина, жесткий монтаж, для тяжелого оборудования; 2шт; ВхГ: 2Uх800мм]]></description>
+<param name="Ширина" unit="мм">0</param>
+<param name="Высота" unit="мм">0</param>
+<param name="Глубина" unit="мм">0</param>
+<param name="Глубина шкафа" unit="мм">0</param>
+<param name="Высота шкафа" unit="мм">0</param>
+<param name="Ширина шкафа" unit="мм">0</param>
+<docFile url="https://www.prompower.ru/docs/electrical-cabinets/ppcab_catalog.pdf" name="Электротехнические шкафы серии PPCAB. Каталог продукции"/>
+<docFile url="https://www.prompower.ru/docs/referenceList.pdf" name="Краткий референс-лист проектов по автоматизации"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf" name="Ссылка на сертификаты ТР ТС"/>
+<unitID>шт</unitID>
+<weight>2560</weight>
+</offer>
+<offer>
+<id>UA2RTDBD</id>
+<qty>0</qty>
+<price qty="1" costPrice="4414.47" rPrice="5032.5"/>
+<picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
+<picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-1703188936539-0.01815614639060681.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-1654002861798-0.35138493486299605.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-33.png</picture>
+<name>ПЛАТА РАСШИРЕНИЯ expanding board 2RTD</name>
+<partNumber>UA-2RTD-BD</partNumber>
+<vendor>Unimat</vendor>
+<tnvedcode>8538909200</tnvedcode>
+<description><![CDATA[ПЛАТА РАСШИРЕНИЯ expanding board 2RTD<br><br>Модули Unimat на 100% совместимы (взаимозаменяемы) с соответствующими модулями Siemens S7-200, S7-300, S7-1200. Чтобы получить артикул Unimat, в большинстве случаев нужно у артикула Siemens заменить 6ES7- на UN-, а остальную часть артикула оставить без изменений.<br><br>Данный модуль Unimat UA-2RTD-BD соответствует модулю Siemens UA-2RTD-BD.<br><br>Модули Unimat поддерживаются на складе в России.<br>Кабель Profibus и ProfiNET от Unimat соответствует кабелю Siemens.<br><br>Модули UniMAT монтируются в оригинальный ПЛК Siemens, определяются средой разработки как оригинальные модули Siemens без каких-либо дополнительных манипуляций со стороны программиста.<br><br>Сценарии использования модулей Unimat:<br><br>+ в новых проектах (с оригинальным CPU Siemens)<br>+ в проектах модернизации производства, где установлены ПЛК Siemens S7-200, S7-300 и S7-1200 и требуется их расширение (или замена модулей)<br>+ станции удалённого (распределённого) ввода-вывода от Unimat (Profibus; Profinet)]]></description>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/HMI%20Catalogue%206-18.pdf" name="HMI Catalogue 6-18"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20120%20Series%20PLC%20(1-2).pdf" name="UN 120 Series PLC (1-2)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20120%20Series%20PLC%20(61-82(%E6%9B%B4%E6%96%B0).pdf" name="UN 120 Series PLC (61-82(更新)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%201200%20series%20PLC.pdf" name="UN 1200 series PLC"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20200%20Series%20PLC%20(29-60(%E6%9B%B4%E6%96%B0%EF%BC%89).pdf" name="UN 200 Series PLC (29-60(更新）)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20300%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20(3-28).pdf" name="UN 300 модули (3-28)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UniMAT%20%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0.pdf" name="UniMAT Листовка"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/Unimat%20-%202025%20%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0.pdf" name="Unimat - 2025 брошюра"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20UniMAT%20UN%20300%20%3D%20Siemens%20S7-300%20(100%25%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3).pdf" name="Модули UniMAT UN 300 = Siemens S7-300 (100% аналог)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf" name="Ссылка на сертификаты ТР ТС"/>
+<unitID>шт</unitID>
+</offer>
+<offer>
+<id>UN8402AH100AA0</id>
+<qty>2235</qty>
+<price qty="1" costPrice="281.46" rPrice="320.86"/>
+<picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
+<picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-1703188936539-0.01815614639060681.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-1654002861798-0.35138493486299605.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-33.png</picture>
+<name>UN 840-2AH10-0AA0 КАБЕЛЬ PROFINET</name>
+<partNumber>UN 840-2AH10-0AA0</partNumber>
+<vendor>Unimat</vendor>
+<tnvedcode>8544429007</tnvedcode>
+<description><![CDATA[UN 840-2AH10-0AA0 КАБЕЛЬ PROFINET<br><br>Модули Unimat на 100% совместимы (взаимозаменяемы) с соответствующими модулями Siemens S7-200, S7-300, S7-1200. Чтобы получить артикул Unimat, в большинстве случаев нужно у артикула Siemens заменить 6ES7- на UN-, а остальную часть артикула оставить без изменений.<br><br>Данный модуль Unimat UN 840-2AH10-0AA0 соответствует модулю Siemens 6ES7840-2AH10-0AA0.<br><br>Модули Unimat поддерживаются на складе в России.<br>Кабель Profibus и ProfiNET от Unimat соответствует кабелю Siemens.<br><br>Модули UniMAT монтируются в оригинальный ПЛК Siemens, определяются средой разработки как оригинальные модули Siemens без каких-либо дополнительных манипуляций со стороны программиста.<br><br>Сценарии использования модулей Unimat:<br><br>+ в новых проектах (с оригинальным CPU Siemens)<br>+ в проектах модернизации производства, где установлены ПЛК Siemens S7-200, S7-300 и S7-1200 и требуется их расширение (или замена модулей)<br>+ станции удалённого (распределённого) ввода-вывода от Unimat (Profibus; Profinet)]]></description>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/HMI%20Catalogue%206-18.pdf" name="HMI Catalogue 6-18"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20120%20Series%20PLC%20(1-2).pdf" name="UN 120 Series PLC (1-2)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20120%20Series%20PLC%20(61-82(%E6%9B%B4%E6%96%B0).pdf" name="UN 120 Series PLC (61-82(更新)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%201200%20series%20PLC.pdf" name="UN 1200 series PLC"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20200%20Series%20PLC%20(29-60(%E6%9B%B4%E6%96%B0%EF%BC%89).pdf" name="UN 200 Series PLC (29-60(更新）)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20300%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20(3-28).pdf" name="UN 300 модули (3-28)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UniMAT%20%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0.pdf" name="UniMAT Листовка"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/Unimat%20-%202025%20%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0.pdf" name="Unimat - 2025 брошюра"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20UniMAT%20UN%20300%20%3D%20Siemens%20S7-300%20(100%25%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3).pdf" name="Модули UniMAT UN 300 = Siemens S7-300 (100% аналог)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf" name="Ссылка на сертификаты ТР ТС"/>
+<unitID>шт</unitID>
+</offer>
+<offer>
+<id>UN8300EH100AA0</id>
+<qty>7573</qty>
+<price qty="1" costPrice="191.56" rPrice="218.38"/>
+<picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
+<picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-1703188936539-0.01815614639060681.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-1654002861798-0.35138493486299605.jpg</picture>
+<picture>https://unimat-russia.ru/uploads/product-33.png</picture>
+<name>UN 830-0EH10-0AA0 КАБЕЛЬ Profibus cable</name>
+<partNumber>UN 830-0EH10-0AA0</partNumber>
+<vendor>Unimat</vendor>
+<tnvedcode>8544499101</tnvedcode>
+<description><![CDATA[UN 830-0EH10-0AA0 КАБЕЛЬ Profibus cable<br><br>Модули Unimat на 100% совместимы (взаимозаменяемы) с соответствующими модулями Siemens S7-200, S7-300, S7-1200. Чтобы получить артикул Unimat, в большинстве случаев нужно у артикула Siemens заменить 6ES7- на UN-, а остальную часть артикула оставить без изменений.<br><br>Данный модуль Unimat UN 830-0EH10-0AA0 соответствует модулю Siemens 6ES7830-0EH10-0AA0.<br><br>Модули Unimat поддерживаются на складе в России.<br>Кабель Profibus и ProfiNET от Unimat соответствует кабелю Siemens.<br><br>Модули UniMAT монтируются в оригинальный ПЛК Siemens, определяются средой разработки как оригинальные модули Siemens без каких-либо дополнительных манипуляций со стороны программиста.<br><br>Сценарии использования модулей Unimat:<br><br>+ в новых проектах (с оригинальным CPU Siemens)<br>+ в проектах модернизации производства, где установлены ПЛК Siemens S7-200, S7-300 и S7-1200 и требуется их расширение (или замена модулей)<br>+ станции удалённого (распределённого) ввода-вывода от Unimat (Profibus; Profinet)]]></description>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/HMI%20Catalogue%206-18.pdf" name="HMI Catalogue 6-18"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20120%20Series%20PLC%20(1-2).pdf" name="UN 120 Series PLC (1-2)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20120%20Series%20PLC%20(61-82(%E6%9B%B4%E6%96%B0).pdf" name="UN 120 Series PLC (61-82(更新)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%201200%20series%20PLC.pdf" name="UN 1200 series PLC"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20200%20Series%20PLC%20(29-60(%E6%9B%B4%E6%96%B0%EF%BC%89).pdf" name="UN 200 Series PLC (29-60(更新）)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UN%20300%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20(3-28).pdf" name="UN 300 модули (3-28)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/UniMAT%20%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0.pdf" name="UniMAT Листовка"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/Unimat%20-%202025%20%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0.pdf" name="Unimat - 2025 брошюра"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/main/Unimat/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20UniMAT%20UN%20300%20%3D%20Siemens%20S7-300%20(100%25%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3).pdf" name="Модули UniMAT UN 300 = Siemens S7-300 (100% аналог)"/>
+<docFile url="https://github.com/brilka/feed-for-onlinestore/raw/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf" name="Ссылка на сертификаты ТР ТС"/>
+<unitID>шт</unitID>
+</offer>
+</offers>
+</shop>
