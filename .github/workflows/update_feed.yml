@@ -58,6 +58,10 @@ jobs:
           git add feedChipdip-ZEROwarehouse.xml
           git add feedStoking.xml
           git add feedStoking-ZEROwarehouse.xml
-          git add pdf_cache.json
+          # Проверяем, существует ли файл pdf_cache.json на диске (в режиме отладки он может ещё не создаться).
+          # Оператор [ -f "имя_файла" ] означает: "если файл существует, тогда выполнить команду git add".
+          if [ -f "pdf_cache.json" ]; then
+            git add pdf_cache.json
+          fi
           git commit -m "Авто-обновление XML-фидов (Chipdip и Stoking)" || echo "Нет изменений для коммита"
           git push
