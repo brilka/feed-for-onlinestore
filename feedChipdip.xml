@@ -11195,7 +11195,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME21</id>
-<qty>137</qty>
+<qty>136</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME21</url>
 <price qty="1" costPrice="3711.73" rPrice="4639.66"/>
 <categoryId>60</categoryId>
@@ -13920,7 +13920,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>LMAA</id>
-<qty>844</qty>
+<qty>704</qty>
 <url>https://www.prompower.ru/catalog/relays/relays-accessories/LMAA</url>
 <price qty="1" costPrice="161.04" rPrice="201.3"/>
 <categoryId>34</categoryId>
@@ -33563,7 +33563,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>KJ112D04PADS1250TA</id>
-<qty>404</qty>
+<qty>391</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04PADS1250TA</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
@@ -43455,7 +43455,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>JLC1D3201AC220</id>
-<qty>110</qty>
+<qty>104</qty>
 <url>https://www.prompower.ru/catalog/nka/contactors/JLC1D3201AC220</url>
 <price qty="1" costPrice="903.66" rPrice="1021.14"/>
 <categoryId>7</categoryId>
@@ -43809,7 +43809,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>JLP1D1801BDDC24</id>
-<qty>51</qty>
+<qty>49</qty>
 <url>https://www.prompower.ru/catalog/nka/contactors/JLP1D1801BDDC24</url>
 <price qty="1" costPrice="1131.47" rPrice="1278.56"/>
 <categoryId>7</categoryId>
@@ -43842,7 +43842,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>JLP1D1810BDDC24</id>
-<qty>166</qty>
+<qty>163</qty>
 <url>https://www.prompower.ru/catalog/nka/contactors/JLP1D1810BDDC24</url>
 <price qty="1" costPrice="1131.47" rPrice="1278.56"/>
 <categoryId>7</categoryId>
@@ -44637,7 +44637,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D32BD</id>
-<qty>15</qty>
+<qty>11</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D32BD</url>
 <price qty="1" costPrice="7309.26" rPrice="9136.58"/>
 <categoryId>62</categoryId>
@@ -45325,7 +45325,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>JLC1K1210AC220</id>
-<qty>76</qty>
+<qty>75</qty>
 <url>https://www.prompower.ru/catalog/nka/mini-contactors/JLC1K1210AC220</url>
 <price qty="1" costPrice="455.61" rPrice="514.84"/>
 <categoryId>24</categoryId>
@@ -45355,7 +45355,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1K0610M7</id>
-<qty>12</qty>
+<qty>11</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLC1K0610M7</url>
 <price qty="1" costPrice="1032.61" rPrice="1290.76"/>
 <categoryId>63</categoryId>
@@ -90006,7 +90006,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310KEY7</id>
-<qty>122</qty>
+<qty>118</qty>
 <url>https://www.prompower.ru/catalog/inverters/inverter-options/PD310KEY7</url>
 <price qty="1" costPrice="2049.6" rPrice="2562.0"/>
 <categoryId>21</categoryId>
@@ -90468,7 +90468,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH7070SFE</id>
-<qty>275</qty>
+<qty>269</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph/PH7070SFE</url>
 <price qty="1" costPrice="27237.58" rPrice="23151.94"/>
 <categoryId>100</categoryId>
@@ -90533,7 +90533,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH1102SF</id>
-<qty>105</qty>
+<qty>98</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph1/PH1102SF</url>
 <price qty="1" costPrice="23398.16" rPrice="19888.44"/>
 <categoryId>99</categoryId>
@@ -90655,7 +90655,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH1150SFE</id>
-<qty>1</qty>
+<qty>0</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph1/PH1150SFE</url>
 <price qty="1" costPrice="96648.4" rPrice="82151.14"/>
 <categoryId>99</categoryId>
@@ -113222,7 +113222,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD101A4007</id>
-<qty>222</qty>
+<qty>220</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd101/PD101A4007</url>
 <price qty="1" costPrice="8016.12" rPrice="6813.7"/>
 <categoryId>14</categoryId>
@@ -113329,7 +113329,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD110A4110</id>
-<qty>3</qty>
+<qty>2</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd110/PD110A4110</url>
 <price qty="1" costPrice="23323.53" rPrice="19825.0"/>
 <categoryId>15</categoryId>
@@ -114026,7 +114026,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4110B</id>
-<qty>23</qty>
+<qty>22</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4110B</url>
 <price qty="1" costPrice="48711.18" rPrice="60888.98"/>
 <categoryId>49</categoryId>
@@ -114140,7 +114140,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4040B</id>
-<qty>133</qty>
+<qty>130</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4040B</url>
 <price qty="1" costPrice="24116.96" rPrice="30146.2"/>
 <categoryId>49</categoryId>
@@ -116765,7 +116765,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A4370</id>
-<qty>23</qty>
+<qty>22</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4370</url>
 <price qty="1" costPrice="144177.65" rPrice="180222.06"/>
 <categoryId>42</categoryId>
@@ -117423,7 +117423,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A4150B</id>
-<qty>18</qty>
+<qty>17</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4150B</url>
 <price qty="1" costPrice="78070.24" rPrice="97587.8"/>
 <categoryId>42</categoryId>
@@ -117658,7 +117658,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A411K</id>
-<qty>2</qty>
+<qty>1</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A411K</url>
 <price qty="1" costPrice="370144.1" rPrice="462680.12"/>
 <categoryId>42</categoryId>
@@ -117987,7 +117987,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A4015B</id>
-<qty>85</qty>
+<qty>84</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4015B</url>
 <price qty="1" costPrice="24688.9" rPrice="30861.12"/>
 <categoryId>42</categoryId>
@@ -118034,7 +118034,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A4007B</id>
-<qty>61</qty>
+<qty>57</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4007B</url>
 <price qty="1" costPrice="24498.58" rPrice="30623.22"/>
 <categoryId>42</categoryId>
@@ -121763,7 +121763,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2RVSR700DC24</id>
-<qty>2606</qty>
+<qty>2576</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR700DC24</url>
 <price qty="1" costPrice="851.07" rPrice="1063.84"/>
 <categoryId>11</categoryId>
@@ -131355,11 +131355,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0004.jpg</picture>
-<name> Серводвигатель серии PSM6S-80CS30BZ3-21P0, с тормозом, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-80CS30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CS30BZ3-21P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[ Серводвигатель серии PSM6S-80CS30BZ3-21P0, с тормозом, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CS30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">194</param>
@@ -131390,11 +131390,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0004.jpg</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </name>
+<name>Серводвигатель PSM6S-80CS30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CS30BZ3-20P7</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501510009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. ]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CS30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">167.1</param>
@@ -131425,11 +131425,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0004.jpg</picture>
-<name>Серводвигатель PSM6S-80CS30B3-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-80CS30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CS30B3-21P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель PSM6S-80CS30B3-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CS30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">169</param>
@@ -131460,11 +131460,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0004.jpg</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </name>
+<name>Серводвигатель PSM6S-80CS30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CS30B3-20P7</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501510009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. ]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CS30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">142.1</param>
@@ -131491,11 +131491,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="39276.94" rPrice="47525.1"/>
 <categoryId>53</categoryId>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_STEP0000.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-80CM30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CM30BZ3-21P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 1 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CM30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">177.6</param>
@@ -131521,11 +131521,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="35064.41" rPrice="42427.94"/>
 <categoryId>53</categoryId>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_STEP0000.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-80CM30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CM30BZ3-20P7</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501510009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CM30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">216.4</param>
@@ -131552,11 +131552,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="30450.6" rPrice="36845.22"/>
 <categoryId>53</categoryId>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_STEP0000.png</picture>
-<name>Серводвигатель серии PSM6S-80CM30B3-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-80CM30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CM30B3-21P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6S-80CM30B3-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CM30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">152.6</param>
@@ -131586,11 +131586,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0004.jpg</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит. </name>
+<name>Серводвигатель PSM6S-80CM30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</name>
 <partNumber>PSM6S-80CM30B3-20P7</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501510009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит. ]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80CM30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">89.3</param>
 <param name="Глубина" unit="мм">142.1</param>
@@ -131622,10 +131622,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-60TH30BZ3-20P4-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-60TH30BZ3-20P4-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-60TH30BZ3-20P4-6.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-60TH30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-60TH30BZ3-20P4</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-60TH30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">60</param>
 <param name="Высота" unit="мм">76.7</param>
 <param name="Глубина" unit="мм">151.15</param>
@@ -131656,10 +131656,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-60TH30B3-20P4-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-60TH30B3-20P4-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-60TH30B3-20P4-6.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-60TH30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-60TH30B3-20P4</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-60TH30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">60</param>
 <param name="Высота" unit="мм">76.7</param>
 <param name="Глубина" unit="мм">127.4</param>
@@ -131689,11 +131689,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0004.jpg</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 400 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </name>
+<name>Серводвигатель PSM6S-60CS30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-60CS30BZ3-20P4</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501510009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 400 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. ]]></description>
+<description><![CDATA[Серводвигатель PSM6S-60CS30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">60</param>
 <param name="Высота" unit="мм">68.8</param>
 <param name="Глубина" unit="мм">151.15</param>
@@ -131724,11 +131724,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0004.jpg</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 400 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </name>
+<name>Серводвигатель PSM6S-60CS30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-60CS30B3-20P4</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501510009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 400 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. ]]></description>
+<description><![CDATA[Серводвигатель PSM6S-60CS30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">60</param>
 <param name="Высота" unit="мм">68.8</param>
 <param name="Глубина" unit="мм">128.4</param>
@@ -131755,11 +131755,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="25957.77" rPrice="31408.9"/>
 <categoryId>53</categoryId>
 <picture>https://www.prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_STEP0000.png</picture>
-<name>Серводвигатель серии PSM6S, без тормоза, 400 Вт, 200В, 3000об/мин</name>
+<name>Серводвигатель PSM6S-60CM30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</name>
 <partNumber>PSM6S-60CM30B3-20P4</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501510009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6S, без тормоза, 400 Вт, 200В, 3000об/мин]]></description>
+<description><![CDATA[Серводвигатель PSM6S-60CM30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">60</param>
 <param name="Высота" unit="мм">68.8</param>
 <param name="Глубина" unit="мм">128.4</param>
@@ -131791,10 +131791,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-47P0-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-47P0-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-47P0-6.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 7 кВт, 400 В, 22,3Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-130TH30BZ2-47P0, с тормозом, номинальная мощность 7,0 кВт, номинальный момент 22,3 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-130TH30BZ2-47P0</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 7 кВт, 400 В, 22,3Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-130TH30BZ2-47P0, с тормозом, номинальная мощность 7,0 кВт, номинальный момент 22,3 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">130</param>
 <param name="Высота" unit="мм">229.1</param>
 <param name="Глубина" unit="мм">442</param>
@@ -131825,10 +131825,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-45P0-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-45P0-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-45P0-6.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 5 кВт, 400 В, 15,8Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-130TH30BZ2-45P0, с тормозом, номинальная мощность 5,0 кВт, номинальный момент 15,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-130TH30BZ2-45P0</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 5 кВт, 400 В, 15,8Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-130TH30BZ2-45P0, с тормозом, номинальная мощность 5,0 кВт, номинальный момент 15,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">130</param>
 <param name="Высота" unit="мм">229.1</param>
 <param name="Глубина" unit="мм">378</param>
@@ -131859,11 +131859,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-43P0-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-43P0-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30BZ2-43P0-6.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 3 кВт, 400 В, 9,8Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-130TH30BZ2-43P0, с тормозом, номинальная мощность 3,0 кВт, номинальный момент 9,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-130TH30BZ2-43P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 3 кВт, 400 В, 9,8Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-130TH30BZ2-43P0, с тормозом, номинальная мощность 3,0 кВт, номинальный момент 9,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">130</param>
 <param name="Высота" unit="мм">229.3</param>
 <param name="Глубина" unit="мм">311.3</param>
@@ -131894,10 +131894,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-47P0-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-47P0-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-47P0-6.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 7 кВт, 400 В, 22,3Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-130TH30B2-47P0, без тормоза, номинальная мощность 7,0 кВт, номинальный момент 22,3 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-130TH30B2-47P0</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 7 кВт, 400 В, 22,3Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-130TH30B2-47P0, без тормоза, номинальная мощность 7,0 кВт, номинальный момент 22,3 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">130</param>
 <param name="Высота" unit="мм">229.1</param>
 <param name="Глубина" unit="мм">398.3</param>
@@ -131928,10 +131928,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-45P0-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-45P0-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-45P0-6.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 5 кВт, 400 В, 15,8Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-130TH30B2-45P0, без тормоза, номинальная мощность 5,0 кВт, номинальный момент 15,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-130TH30B2-45P0</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 5 кВт, 400 В, 15,8Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-130TH30B2-45P0, без тормоза, номинальная мощность 5,0 кВт, номинальный момент 15,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">130</param>
 <param name="Высота" unit="мм">229.1</param>
 <param name="Глубина" unit="мм">336.1</param>
@@ -131962,11 +131962,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-43P0-4.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-43P0-5.png</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-130TH30B2-43P0-6.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 3 кВт, 400 В, 9,8Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-130TH30B2-43P0, без тормоза, номинальная мощность 3,0 кВт, номинальный момент 9,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-130TH30B2-43P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 3 кВт, 400 В, 9,8Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-130TH30B2-43P0, без тормоза, номинальная мощность 3,0 кВт, номинальный момент 9,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">130</param>
 <param name="Высота" unit="мм">229.3</param>
 <param name="Глубина" unit="мм">279.3</param>
@@ -131996,11 +131996,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0004.jpg</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-100CS30BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-100CS30BZ2-21P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-100CS30BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">100</param>
 <param name="Высота" unit="мм">154</param>
 <param name="Глубина" unit="мм">209</param>
@@ -132031,11 +132031,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P5_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P5_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P5_0004.jpg</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </name>
+<name>Серводвигатель PSM6S-100CS30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,8 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-100CS30B2-21P5</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. ]]></description>
+<description><![CDATA[Серводвигатель PSM6S-100CS30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,8 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">100</param>
 <param name="Высота" unit="мм">155.42</param>
 <param name="Глубина" unit="мм">199.5</param>
@@ -132066,11 +132066,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0002.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0003.jpg</picture>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0004.jpg</picture>
-<name>Серводвигатель серии PSM6S-100CS30B2-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-100CS30B2-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</name>
 <partNumber>PSM6S-100CS30B2-21P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6S-100CS30B2-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-100CS30B2-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">100</param>
 <param name="Высота" unit="мм">155.5</param>
 <param name="Глубина" unit="мм">183.5</param>
@@ -132097,11 +132097,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="46418.48" rPrice="56166.36"/>
 <categoryId>53</categoryId>
 <picture>https://www.prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_STEP0000.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</name>
+<name>Серводвигатель PSM6S-100CM30BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</name>
 <partNumber>PSM6S-100CM30BZ2-21P0</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 1 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-100CM30BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.]]></description>
 <param name="Ширина" unit="мм">100</param>
 <param name="Высота" unit="мм">144.7</param>
 <param name="Глубина" unit="мм">209</param>
@@ -132132,11 +132132,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 2,5 кВт, 400 В, 8Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6L-100TH30BZ2-42P5, с тормозом, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30BZ2-42P5</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 2,5 кВт, 400 В, 8Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6L-100TH30BZ2-42P5, с тормозом, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">100.3</param>
 <param name="Высота" unit="мм">195.95</param>
 <param name="Глубина" unit="мм">311</param>
@@ -132167,10 +132167,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6L-100TH30BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30BZ2-41P5</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6L-100TH30BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">100.3</param>
 <param name="Высота" unit="мм">195.95</param>
 <param name="Глубина" unit="мм">250</param>
@@ -132201,10 +132201,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6L-100TH30BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30BZ2-21P5</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6L-100TH30BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">100.3</param>
 <param name="Высота" unit="мм">195.95</param>
 <param name="Глубина" unit="мм">250</param>
@@ -132235,11 +132235,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 2,5 кВт, 400 В, 8Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6L-100TH30B2-42P5, без тормоза, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30B2-42P5</partNumber>
 <vendor>Prompower</vendor>
 <tnvedcode>8501522009</tnvedcode>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 2,5 кВт, 400 В, 8Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6L-100TH30B2-42P5, без тормоза, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">100.3</param>
 <param name="Высота" unit="мм">195.85</param>
 <param name="Глубина" unit="мм">296</param>
@@ -132270,10 +132270,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6L-100TH30B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30B2-41P5</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6L-100TH30B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">100.3</param>
 <param name="Высота" unit="мм">195.95</param>
 <param name="Глубина" unit="мм">238</param>
@@ -132335,10 +132335,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6H-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-80TH30BZ3-21P0</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6H-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">97.3</param>
 <param name="Глубина" unit="мм">194</param>
@@ -132369,10 +132369,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6H-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-80TH30BZ3-20P7</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6H-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">97.3</param>
 <param name="Глубина" unit="мм">167.1</param>
@@ -132506,10 +132506,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-80TH30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30B3-20P7</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80TH30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">97.3</param>
 <param name="Глубина" unit="мм">142.1</param>
@@ -132540,10 +132540,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-80TH30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30B3-21P0</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80TH30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">97.3</param>
 <param name="Глубина" unit="мм">152.6</param>
@@ -132574,10 +132574,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30BZ3-21P0</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">97.3</param>
 <param name="Глубина" unit="мм">177.6</param>
@@ -132608,10 +132608,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6S-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30BZ3-20P7</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6S-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">80</param>
 <param name="Высота" unit="мм">97.3</param>
 <param name="Глубина" unit="мм">167.1</param>
@@ -133183,10 +133183,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0003.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0004.png</picture>
 <picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0005.png</picture>
-<name>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</name>
+<name>Серводвигатель PSM6L-100TH30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30B2-21P5</partNumber>
 <vendor>Prompower</vendor>
-<description><![CDATA[Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.]]></description>
+<description><![CDATA[Серводвигатель PSM6L-100TH30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.]]></description>
 <param name="Ширина" unit="мм">100.3</param>
 <param name="Высота" unit="мм">195.95</param>
 <param name="Глубина" unit="мм">238</param>
@@ -175535,7 +175535,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>1LE90221CA033FA4</id>
-<qty>12</qty>
+<qty>7</qty>
 <url>https://www.prompower.ru/catalog/motors/ie1-motors/1LE90221CA033FA4</url>
 <price qty="1" costPrice="90491.95" rPrice="106780.5"/>
 <categoryId>31</categoryId>
@@ -178247,7 +178247,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN8402AH100AA0</id>
-<qty>2235</qty>
+<qty>2185</qty>
 <price qty="1" costPrice="265.17" rPrice="320.86"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -178328,7 +178328,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN9720CB200XA0</id>
-<qty>31</qty>
+<qty>29</qty>
 <price qty="1" costPrice="11990.28" rPrice="14508.24"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -178654,7 +178654,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN3901AF300AA0</id>
-<qty>30</qty>
+<qty>31</qty>
 <price qty="1" costPrice="1349.06" rPrice="1632.36"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -179517,7 +179517,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN2231BL320XB0</id>
-<qty>88</qty>
+<qty>72</qty>
 <price qty="1" costPrice="16576.88" rPrice="20058.02"/>
 <categoryId>47</categoryId>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
@@ -182089,7 +182089,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>UN2883AM060AA0</id>
-<qty>2</qty>
+<qty>0</qty>
 <price qty="1" costPrice="12169.75" rPrice="14725.4"/>
 <categoryId>47</categoryId>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
