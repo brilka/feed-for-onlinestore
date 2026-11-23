@@ -81310,6 +81310,17 @@
         "url": "https://www.prompower.ru/catalog/CAD/KJ118-D08NA-DS1248-TA.pdf",
         "name": "Габаритный чертеж индуктивный датчик PROMPOWER KJ118-D08NA-DS1248-TA (pdf)"
       }
+    ],
+    "https://www.prompower.ru/catalog/servo-cables-and-terminals/JAME7XE6PS": [],
+    "https://www.prompower.ru/catalog/promyshlennye-kompyutery/industrial-pc/PIPCMM6I712700": [
+      {
+        "url": "https://www.prompower.ru/docs/promyshlennye-kompyutery/IPC_catalog.pdf",
+        "name": "Документация"
+      },
+      {
+        "url": "https://www.prompower.ru/docs/referenceList.pdf",
+        "name": "Документация"
+      }
     ]
   }
 }
