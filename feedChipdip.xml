@@ -7016,7 +7016,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM263C102</id>
-<qty>57</qty>
+<qty>56</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C102</url>
 <price qty="1" costPrice="1186.82" rPrice="1483.52"/>
 <categoryId>4</categoryId>
@@ -8237,7 +8237,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM163C253</id>
-<qty>42</qty>
+<qty>40</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C253</url>
 <price qty="1" costPrice="2513.2" rPrice="3141.5"/>
 <categoryId>4</categoryId>
@@ -8897,7 +8897,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM163C203</id>
-<qty>37</qty>
+<qty>35</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C203</url>
 <price qty="1" costPrice="2522.96" rPrice="3153.7"/>
 <categoryId>4</categoryId>
@@ -9029,7 +9029,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM163C162</id>
-<qty>43</qty>
+<qty>42</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C162</url>
 <price qty="1" costPrice="1625.04" rPrice="2031.3"/>
 <categoryId>4</categoryId>
@@ -10246,7 +10246,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME32</id>
-<qty>46</qty>
+<qty>42</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME32</url>
 <price qty="1" costPrice="3697.09" rPrice="4621.36"/>
 <categoryId>60</categoryId>
@@ -10525,7 +10525,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME06</id>
-<qty>11</qty>
+<qty>10</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME06</url>
 <price qty="1" costPrice="3626.82" rPrice="4533.52"/>
 <categoryId>60</categoryId>
@@ -12508,7 +12508,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>USBCOMPS</id>
-<qty>78</qty>
+<qty>77</qty>
 <url>https://www.prompower.ru/catalog/plc/plc-accessories/USBCOMPS</url>
 <price qty="1" costPrice="600.93" rPrice="727.12"/>
 <categoryId>75</categoryId>
@@ -12602,7 +12602,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>RVJBLACK</id>
-<qty>4311</qty>
+<qty>4306</qty>
 <url>https://www.prompower.ru/catalog/relays/relays-accessories/RVJBLACK</url>
 <price qty="1" costPrice="605.12" rPrice="756.4"/>
 <categoryId>34</categoryId>
@@ -16081,7 +16081,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>NDR12024</id>
-<qty>1094</qty>
+<qty>1093</qty>
 <url>https://www.prompower.ru/catalog/power-supply/power-ndr/NDR12024</url>
 <price qty="1" costPrice="3190.54" rPrice="3988.18"/>
 <categoryId>30</categoryId>
@@ -25494,7 +25494,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>F4K22</id>
-<qty>352</qty>
+<qty>350</qty>
 <url>https://www.prompower.ru/catalog/nka/auxilliary-contacts/F4K22</url>
 <price qty="1" costPrice="280.71" rPrice="317.2"/>
 <categoryId>8</categoryId>
@@ -25840,7 +25840,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLAD8N20</id>
-<qty>34</qty>
+<qty>33</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PLAD8N20</url>
 <price qty="1" costPrice="953.55" rPrice="1191.94"/>
 <categoryId>61</categoryId>
@@ -26000,7 +26000,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGVAE11</id>
-<qty>62</qty>
+<qty>58</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PGVAE11</url>
 <price qty="1" costPrice="1024.8" rPrice="1281.0"/>
 <categoryId>61</categoryId>
@@ -29781,7 +29781,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>KT112D08PADS1250TA</id>
-<qty>163</qty>
+<qty>155</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KT112D08PADS1250TA</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
@@ -30105,7 +30105,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>KJ112D04PAD350TA</id>
-<qty>923</qty>
+<qty>908</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04PAD350TA</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
@@ -30132,7 +30132,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>KJ112D04PADS1250TA</id>
-<qty>391</qty>
+<qty>383</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04PADS1250TA</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
@@ -30699,7 +30699,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>KJ130D16PAD355LY</id>
-<qty>67</qty>
+<qty>65</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ130D16PAD355LY</url>
 <price qty="1" costPrice="2543.46" rPrice="3179.32"/>
 <categoryId>76</categoryId>
@@ -36778,7 +36778,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PP2RF08S</id>
-<qty>8</qty>
+<qty>3</qty>
 <url>https://www.prompower.ru/catalog/relays/relay-terminal/PP2RF08S</url>
 <price qty="1" costPrice="518.26" rPrice="647.82"/>
 <categoryId>23</categoryId>
@@ -36894,7 +36894,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PP2RF05S</id>
-<qty>3254</qty>
+<qty>3218</qty>
 <url>https://www.prompower.ru/catalog/relays/relay-terminal/PP2RF05S</url>
 <price qty="1" costPrice="443.1" rPrice="553.88"/>
 <categoryId>23</categoryId>
@@ -36981,7 +36981,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PPYF14ESNB</id>
-<qty>4671</qty>
+<qty>4681</qty>
 <url>https://www.prompower.ru/catalog/relays/relay-terminal/PPYF14ESNB</url>
 <price qty="1" costPrice="530.94" rPrice="663.68"/>
 <categoryId>23</categoryId>
@@ -37072,7 +37072,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>JLC1D2510AC220</id>
-<qty>114</qty>
+<qty>112</qty>
 <url>https://www.prompower.ru/catalog/nka/contactors/JLC1D2510AC220</url>
 <price qty="1" costPrice="570.05" rPrice="644.16"/>
 <categoryId>7</categoryId>
@@ -38871,7 +38871,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMY4NAC24</id>
-<qty>306</qty>
+<qty>296</qty>
 <url>https://www.prompower.ru/catalog/relays/mini-relays/PMY4NAC24</url>
 <price qty="1" costPrice="864.74" rPrice="1080.92"/>
 <categoryId>9</categoryId>
@@ -39003,7 +39003,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMY2NDC24</id>
-<qty>1429</qty>
+<qty>1389</qty>
 <url>https://www.prompower.ru/catalog/relays/mini-relays/PMY2NDC24</url>
 <price qty="1" costPrice="768.11" rPrice="960.14"/>
 <categoryId>9</categoryId>
@@ -39069,7 +39069,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMY4NDC24</id>
-<qty>1144</qty>
+<qty>1104</qty>
 <url>https://www.prompower.ru/catalog/relays/mini-relays/PMY4NDC24</url>
 <price qty="1" costPrice="828.62" rPrice="1035.78"/>
 <categoryId>9</categoryId>
@@ -39269,7 +39269,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLP1K1210BD</id>
-<qty>4</qty>
+<qty>3</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLP1K1210BD</url>
 <price qty="1" costPrice="3905.95" rPrice="4882.44"/>
 <categoryId>63</categoryId>
@@ -39337,7 +39337,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1K0610M7</id>
-<qty>11</qty>
+<qty>8</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLC1K0610M7</url>
 <price qty="1" costPrice="1032.61" rPrice="1290.76"/>
 <categoryId>63</categoryId>
@@ -40014,7 +40014,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMPE8PX8YR</id>
-<qty>75</qty>
+<qty>74</qty>
 <url>https://www.prompower.ru/catalog/plc/plc-modules/PMPE8PX8YR</url>
 <price qty="1" costPrice="6066.73" rPrice="7340.74"/>
 <categoryId>47</categoryId>
@@ -40508,7 +40508,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMP01E16YR</id>
-<qty>1</qty>
+<qty>0</qty>
 <url>https://www.prompower.ru/catalog/plc/plc-pmp301-modules/PMP01E16YR</url>
 <price qty="1" costPrice="5946.74" rPrice="7195.56"/>
 <categoryId>74</categoryId>
@@ -40760,7 +40760,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMP01E8PX8YR</id>
-<qty>19</qty>
+<qty>18</qty>
 <url>https://www.prompower.ru/catalog/plc/plc-pmp301-modules/PMP01E8PX8YR</url>
 <price qty="1" costPrice="5946.74" rPrice="7195.56"/>
 <categoryId>74</categoryId>
@@ -79231,7 +79231,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310EN1</id>
-<qty>44</qty>
+<qty>43</qty>
 <url>https://www.prompower.ru/catalog/inverters/inverter-options/PD310EN1</url>
 <price qty="1" costPrice="9914.21" rPrice="12392.76"/>
 <categoryId>21</categoryId>
@@ -79533,7 +79533,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH7070SFE</id>
-<qty>269</qty>
+<qty>268</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph/PH7070SFE</url>
 <price qty="1" costPrice="27237.58" rPrice="23151.94"/>
 <categoryId>100</categoryId>
@@ -79568,7 +79568,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH4043SF</id>
-<qty>79</qty>
+<qty>78</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph/PH4043SF</url>
 <price qty="1" costPrice="17312.52" rPrice="14715.64"/>
 <categoryId>100</categoryId>
@@ -79638,7 +79638,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH10101SFE</id>
-<qty>153</qty>
+<qty>152</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph/PH10101SFE</url>
 <price qty="1" costPrice="59811.58" rPrice="50839.84"/>
 <categoryId>100</categoryId>
@@ -100242,7 +100242,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD150A4110B</id>
-<qty>34</qty>
+<qty>32</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd150/PD150A4110B</url>
 <price qty="1" costPrice="22565.12" rPrice="28206.4"/>
 <categoryId>70</categoryId>
@@ -100427,7 +100427,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD150A4040B</id>
-<qty>42</qty>
+<qty>40</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd150/PD150A4040B</url>
 <price qty="1" costPrice="12414.72" rPrice="15518.4"/>
 <categoryId>70</categoryId>
@@ -100608,7 +100608,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4150B</id>
-<qty>27</qty>
+<qty>26</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4150B</url>
 <price qty="1" costPrice="63295.55" rPrice="79119.44"/>
 <categoryId>49</categoryId>
@@ -100758,7 +100758,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210AB007B</id>
-<qty>35</qty>
+<qty>34</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210AB007B</url>
 <price qty="1" costPrice="15633.57" rPrice="19541.96"/>
 <categoryId>49</categoryId>
@@ -100904,7 +100904,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4007B</id>
-<qty>96</qty>
+<qty>95</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4007B</url>
 <price qty="1" costPrice="17396.22" rPrice="21745.28"/>
 <categoryId>49</categoryId>
@@ -100942,7 +100942,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4015B</id>
-<qty>35</qty>
+<qty>34</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4015B</url>
 <price qty="1" costPrice="18015.98" rPrice="22519.98"/>
 <categoryId>49</categoryId>
@@ -101018,7 +101018,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4040B</id>
-<qty>131</qty>
+<qty>130</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4040B</url>
 <price qty="1" costPrice="24116.96" rPrice="30146.2"/>
 <categoryId>49</categoryId>
@@ -101056,7 +101056,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4055B</id>
-<qty>43</qty>
+<qty>41</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4055B</url>
 <price qty="1" costPrice="29741.65" rPrice="37177.06"/>
 <categoryId>49</categoryId>
@@ -101094,7 +101094,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4075B</id>
-<qty>37</qty>
+<qty>36</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4075B</url>
 <price qty="1" costPrice="37986.9" rPrice="47483.62"/>
 <categoryId>49</categoryId>
@@ -101264,7 +101264,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A4110B</id>
-<qty>7</qty>
+<qty>6</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4110B</url>
 <price qty="1" costPrice="60435.87" rPrice="75544.84"/>
 <categoryId>42</categoryId>
@@ -103136,7 +103136,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A4750</id>
-<qty>10</qty>
+<qty>9</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4750</url>
 <price qty="1" costPrice="282159.65" rPrice="352699.56"/>
 <categoryId>42</categoryId>
@@ -106000,7 +106000,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMP30124A8</id>
-<qty>241</qty>
+<qty>240</qty>
 <url>https://www.prompower.ru/catalog/plc/pmp301/PMP30124A8</url>
 <price qty="1" costPrice="38625.6" rPrice="46736.98"/>
 <categoryId>73</categoryId>
@@ -106581,7 +106581,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PPS1G0612</id>
-<qty>243</qty>
+<qty>239</qty>
 <url>https://www.prompower.ru/catalog/ethernet-switch/PPS1G0612</url>
 <price qty="1" costPrice="10486.14" rPrice="13107.68"/>
 <categoryId>19</categoryId>
@@ -108026,7 +108026,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2R2SDC24</id>
-<qty>1203</qty>
+<qty>1198</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R2SDC24</url>
 <price qty="1" costPrice="517.28" rPrice="646.6"/>
 <categoryId>10</categoryId>
@@ -108224,7 +108224,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2R1SAC230</id>
-<qty>2418</qty>
+<qty>2417</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R1SAC230</url>
 <price qty="1" costPrice="678.32" rPrice="847.9"/>
 <categoryId>10</categoryId>
@@ -108290,7 +108290,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2RVSR700DC24</id>
-<qty>2571</qty>
+<qty>2547</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR700DC24</url>
 <price qty="1" costPrice="851.07" rPrice="1063.84"/>
 <categoryId>11</categoryId>
@@ -108323,7 +108323,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2RVSR700DC12</id>
-<qty>216</qty>
+<qty>206</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR700DC12</url>
 <price qty="1" costPrice="851.07" rPrice="1063.84"/>
 <categoryId>11</categoryId>
@@ -108356,7 +108356,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2RVSR700AC230</id>
-<qty>9270</qty>
+<qty>9266</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR700AC230</url>
 <price qty="1" costPrice="1059.94" rPrice="1324.92"/>
 <categoryId>11</categoryId>
