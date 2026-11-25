@@ -9,7 +9,7 @@ on:
     # Меню параметров при ручном нажатии кнопки Run workflow
     inputs:
       debug_mode:
-        description: 'Включить режим отладки (быстрый тест на нескольких товарах с обновлением PDF)'
+        description: 'Включить режим отладки (тест на нескольких товарах, запись в лог отключена)'
         type: boolean
         default: false
       debug_limit:
@@ -41,15 +41,13 @@ jobs:
       # Шаг 4: Запускаем наш главный универсальный скрипт main.py
       - name: Run Python script
         env:
-          # Передаем скрытые ключи доступа из GitHub Secrets
           API_EMAIL: ${{ secrets.API_EMAIL }}
           API_KEY: ${{ secrets.API_KEY }}
-          # Передаем настройки режима отладки из меню запуска
           DEBUG_MODE: ${{ github.event.inputs.debug_mode }}
           DEBUG_LIMIT: ${{ github.event.inputs.debug_limit }}
         run: python main.py
 
-      # Шаг 5: Сохраняем сгенерированные XML-файлы и кэш PDF обратно в репозиторий
+      # Шаг 5: Сохраняем сгенерированные XML-файлы, кэш PDF и папку с логами обратно в репозиторий
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -58,10 +56,12 @@ jobs:
           git add feedChipdip-ZEROwarehouse.xml
           git add feedStoking.xml
           git add feedStoking-ZEROwarehouse.xml
-          # Проверяем, существует ли файл pdf_cache.json на диске (в режиме отладки он может ещё не создаться).
-          # Оператор [ -f "имя_файла" ] означает: "если файл существует, тогда выполнить команду git add".
           if [ -f "pdf_cache.json" ]; then
             git add pdf_cache.json
           fi
-          git commit -m "Авто-обновление XML-фидов (Chipdip и Stoking)" || echo "Нет изменений для коммита"
+          # Проверяем, существует ли папка logs (в режиме отладки она не создается)
+          if [ -d "logs" ]; then
+            git add logs/
+          fi
+          git commit -m "Авто-обновление XML-фидов и лога цен/остатков" || echo "Нет изменений для коммита"
           git push
