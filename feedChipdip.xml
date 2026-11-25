@@ -4487,7 +4487,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM263C21</id>
-<qty>43</qty>
+<qty>40</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C21</url>
 <price qty="1" costPrice="796.42" rPrice="995.52"/>
 <categoryId>4</categoryId>
@@ -5312,7 +5312,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM263C61</id>
-<qty>368</qty>
+<qty>370</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C61</url>
 <price qty="1" costPrice="588.53" rPrice="735.66"/>
 <categoryId>4</categoryId>
@@ -6065,7 +6065,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM263D253</id>
-<qty>158</qty>
+<qty>159</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263D253</url>
 <price qty="1" costPrice="1742.16" rPrice="2177.7"/>
 <categoryId>4</categoryId>
@@ -6818,7 +6818,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM263C162</id>
-<qty>59</qty>
+<qty>58</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C162</url>
 <price qty="1" costPrice="1140.94" rPrice="1426.18"/>
 <categoryId>4</categoryId>
@@ -7016,7 +7016,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM263C102</id>
-<qty>56</qty>
+<qty>58</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C102</url>
 <price qty="1" costPrice="1186.82" rPrice="1483.52"/>
 <categoryId>4</categoryId>
@@ -8699,7 +8699,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM163C31</id>
-<qty>9</qty>
+<qty>8</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C31</url>
 <price qty="1" costPrice="1176.08" rPrice="1470.1"/>
 <categoryId>4</categoryId>
@@ -8996,7 +8996,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM163C163</id>
-<qty>31</qty>
+<qty>28</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C163</url>
 <price qty="1" costPrice="2295.55" rPrice="2869.44"/>
 <categoryId>4</categoryId>
@@ -9194,7 +9194,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>ESM163C102</id>
-<qty>5</qty>
+<qty>3</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C102</url>
 <price qty="1" costPrice="1625.04" rPrice="2031.3"/>
 <categoryId>4</categoryId>
@@ -10215,7 +10215,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV3ME40</id>
-<qty>0</qty>
+<qty>52</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV3ME40</url>
 <price qty="1" costPrice="9519.9" rPrice="11899.88"/>
 <categoryId>60</categoryId>
@@ -10277,7 +10277,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME22</id>
-<qty>0</qty>
+<qty>10</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME22</url>
 <price qty="1" costPrice="3697.09" rPrice="4621.36"/>
 <categoryId>60</categoryId>
@@ -10370,7 +10370,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME16</id>
-<qty>0</qty>
+<qty>108</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME16</url>
 <price qty="1" costPrice="3683.42" rPrice="4604.28"/>
 <categoryId>60</categoryId>
@@ -10401,7 +10401,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME14</id>
-<qty>0</qty>
+<qty>241</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME14</url>
 <price qty="1" costPrice="3668.78" rPrice="4585.98"/>
 <categoryId>60</categoryId>
@@ -10432,7 +10432,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME10</id>
-<qty>0</qty>
+<qty>153</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME10</url>
 <price qty="1" costPrice="3668.78" rPrice="4585.98"/>
 <categoryId>60</categoryId>
@@ -10463,7 +10463,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME08</id>
-<qty>0</qty>
+<qty>77</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME08</url>
 <price qty="1" costPrice="3655.12" rPrice="4568.9"/>
 <categoryId>60</categoryId>
@@ -10494,7 +10494,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME07</id>
-<qty>0</qty>
+<qty>83</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME07</url>
 <price qty="1" costPrice="3655.12" rPrice="4568.9"/>
 <categoryId>60</categoryId>
@@ -10525,7 +10525,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME06</id>
-<qty>9</qty>
+<qty>79</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME06</url>
 <price qty="1" costPrice="3626.82" rPrice="4533.52"/>
 <categoryId>60</categoryId>
@@ -10556,7 +10556,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME05</id>
-<qty>37</qty>
+<qty>52</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME05</url>
 <price qty="1" costPrice="3229.58" rPrice="4036.98"/>
 <categoryId>60</categoryId>
@@ -10587,7 +10587,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME04</id>
-<qty>0</qty>
+<qty>15</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME04</url>
 <price qty="1" costPrice="3583.87" rPrice="4479.84"/>
 <categoryId>60</categoryId>
@@ -10649,7 +10649,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGV2ME02</id>
-<qty>30</qty>
+<qty>45</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME02</url>
 <price qty="1" costPrice="3244.22" rPrice="4055.28"/>
 <categoryId>60</categoryId>
@@ -12528,7 +12528,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>LMAA</id>
-<qty>704</qty>
+<qty>694</qty>
 <url>https://www.prompower.ru/catalog/relays/relays-accessories/LMAA</url>
 <price qty="1" costPrice="161.04" rPrice="201.3"/>
 <categoryId>34</categoryId>
@@ -12623,7 +12623,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>RVJBLUE</id>
-<qty>4516</qty>
+<qty>4515</qty>
 <url>https://www.prompower.ru/catalog/relays/relays-accessories/RVJBLUE</url>
 <price qty="1" costPrice="605.12" rPrice="756.4"/>
 <categoryId>34</categoryId>
@@ -12644,7 +12644,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>RVJRED</id>
-<qty>6633</qty>
+<qty>6631</qty>
 <url>https://www.prompower.ru/catalog/relays/relays-accessories/RVJRED</url>
 <price qty="1" costPrice="605.12" rPrice="756.4"/>
 <categoryId>34</categoryId>
@@ -13669,6 +13669,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CME03A16PS</url>
 <price qty="1" costPrice="1925.79" rPrice="2330.2"/>
 <categoryId>55</categoryId>
+<picture>https://www.prompower.ru/catalog/products/CM-E03A.png</picture>
 <picture>https://www.prompower.ru/catalog/products/CM-E03A_CM-E05A.jpg</picture>
 <name>CM-E03A-16(PS) Кабель силовой для серводвигателей без тормоза. 16 метров.</name>
 <partNumber>CM-E03A-16(PS)</partNumber>
@@ -13687,6 +13688,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CME03A10PS</url>
 <price qty="1" costPrice="1443.83" rPrice="1747.04"/>
 <categoryId>55</categoryId>
+<picture>https://www.prompower.ru/catalog/products/CM-E03A.png</picture>
 <picture>https://www.prompower.ru/catalog/products/CM-E03A_CM-E05A.jpg</picture>
 <name>CM-E03A-10(PS) Кабель силовой для серводвигателей без тормоза. 10 метров.</name>
 <partNumber>CM-E03A-10(PS)</partNumber>
@@ -13706,6 +13708,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CME03A05PS</url>
 <price qty="1" costPrice="1043.55" rPrice="1262.7"/>
 <categoryId>55</categoryId>
+<picture>https://www.prompower.ru/catalog/products/CM-E03A.png</picture>
 <picture>https://www.prompower.ru/catalog/products/CM-E03A_CM-E05A.jpg</picture>
 <name>CM-E03A-05(PS) Кабель силовой для серводвигателей без тормоза. 5 метров.</name>
 <partNumber>CM-E03A-05(PS)</partNumber>
@@ -13725,6 +13728,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CME03A03PS</url>
 <price qty="1" costPrice="882.23" rPrice="1067.5"/>
 <categoryId>55</categoryId>
+<picture>https://www.prompower.ru/catalog/products/CM-E03A.png</picture>
 <picture>https://www.prompower.ru/catalog/products/CM-E03A_CM-E05A.jpg</picture>
 <name>CM-E03A-03(PS) Кабель силовой для серводвигателей без тормоза. 3 метра.</name>
 <partNumber>CM-E03A-03(PS)</partNumber>
@@ -14719,7 +14723,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CPSEM20PS</url>
 <price qty="1" costPrice="4613.82" rPrice="5582.72"/>
 <categoryId>55</categoryId>
-<picture>https://www.prompower.ru/products/prompower/cpsem20ps.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/cp-se-m.jpg</picture>
 <name>CP-SE-M-20(PS) Кабель энкодера 20 метров.</name>
 <partNumber>CP-SE-M-20(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -14738,7 +14742,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CPSCTB20PS</url>
 <price qty="1" costPrice="7782.79" rPrice="9417.18"/>
 <categoryId>55</categoryId>
-<picture>https://www.prompower.ru/products/prompower/cpsctb20ps.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/CP-SCT-B.jpg</picture>
 <name>CP-SCT-B-20(PS) Кабель энкодера 20 метров.</name>
 <partNumber>CP-SCT-B-20(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -14757,7 +14761,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CMBL15B20PS</url>
 <price qty="1" costPrice="9026.99" rPrice="10922.66"/>
 <categoryId>55</categoryId>
-<picture>https://www.prompower.ru/products/prompower/cmbl15b20ps.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/cmb-l15.jpg</picture>
 <name>CMB-L15B-20(PS) Кабель силовой для серводвигателей с тормозом. 20 метров.</name>
 <partNumber>CMB-L15B-20(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -14871,16 +14875,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CPSLB25PS</url>
 <price qty="1" costPrice="8585.37" rPrice="10388.3"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cp-sl-b.png</picture>
 <name>CP-SL-B-25(PS) Кабель энкодера 25 метров.</name>
 <partNumber>CP-SL-B-25(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -14899,16 +14894,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CMBL15T30PS</url>
 <price qty="1" costPrice="13239.52" rPrice="16019.82"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cmb-l15.jpg</picture>
 <name>CMB-L15T-30(PS) Кабель силовой с тормозом 30 метров.</name>
 <partNumber>CMB-L15T-30(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -14946,16 +14932,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CMBXL6020PS</url>
 <price qty="1" costPrice="19939.44" rPrice="24126.72"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cmb-xl.jpg</picture>
 <name>CMB-XL60-20(PS) Кабель силовой с тормозом 20 метров.</name>
 <partNumber>CMB-XL60-20(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -14974,16 +14951,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CMBXL6025PS</url>
 <price qty="1" costPrice="24151.97" rPrice="29223.88"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cmb-xl.jpg</picture>
 <name>CMB-XL60-25(PS) Кабель силовой с тормозом 25 метров.</name>
 <partNumber>CMB-XL60-25(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -15002,16 +14970,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CPSCTM30PS</url>
 <price qty="1" costPrice="7622.48" rPrice="9223.2"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cp-sct-m.jpg</picture>
 <name>CP-SCT-M-30(PS) Кабель энкодера 30 метров</name>
 <partNumber>CP-SCT-M-30(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -15030,16 +14989,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CPSLB20PS</url>
 <price qty="1" costPrice="7181.87" rPrice="8690.06"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cp-sl-b.png</picture>
 <name>CP-SL-B-20(PS) Кабель энкодера 20 метров.</name>
 <partNumber>CP-SL-B-20(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -15058,16 +15008,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CPSLM25PS</url>
 <price qty="1" costPrice="7782.79" rPrice="9417.18"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cp-sl-m.jpg</picture>
 <name>CP-SL-M-25(PS) Кабель энкодера 25 метров</name>
 <partNumber>CP-SL-M-25(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -15124,16 +15065,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CML15T30PS</url>
 <price qty="1" costPrice="9588.6" rPrice="11602.2"/>
 <categoryId>55</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/cm-l15.jpg</picture>
 <name>CM-L15T-30(PS) Кабель силовой 30 метров</name>
 <partNumber>CM-L15T-30(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -15581,7 +15513,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>HDR155</id>
-<qty>6</qty>
+<qty>1</qty>
 <url>https://www.prompower.ru/catalog/power-hdr/HDR155</url>
 <price qty="1" costPrice="1324.43" rPrice="1655.54"/>
 <categoryId>29</categoryId>
@@ -16081,7 +16013,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>NDR12024</id>
-<qty>1093</qty>
+<qty>1092</qty>
 <url>https://www.prompower.ru/catalog/power-supply/power-ndr/NDR12024</url>
 <price qty="1" costPrice="3190.54" rPrice="3988.18"/>
 <categoryId>30</categoryId>
@@ -25584,7 +25516,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLADN40</id>
-<qty>0</qty>
+<qty>100</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PLADN40</url>
 <price qty="1" costPrice="476.29" rPrice="595.36"/>
 <categoryId>61</categoryId>
@@ -25648,7 +25580,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLADN22</id>
-<qty>0</qty>
+<qty>265</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PLADN22</url>
 <price qty="1" costPrice="476.29" rPrice="595.36"/>
 <categoryId>61</categoryId>
@@ -25680,7 +25612,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLADN20</id>
-<qty>0</qty>
+<qty>75</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PLADN20</url>
 <price qty="1" costPrice="357.22" rPrice="446.52"/>
 <categoryId>61</categoryId>
@@ -25776,7 +25708,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLADN04</id>
-<qty>6</qty>
+<qty>56</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PLADN04</url>
 <price qty="1" costPrice="476.29" rPrice="595.36"/>
 <categoryId>61</categoryId>
@@ -25904,7 +25836,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLAD8N02</id>
-<qty>7</qty>
+<qty>57</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PLAD8N02</url>
 <price qty="1" costPrice="953.55" rPrice="1191.94"/>
 <categoryId>61</categoryId>
@@ -25968,7 +25900,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGVAN11</id>
-<qty>0</qty>
+<qty>232</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PGVAN11</url>
 <price qty="1" costPrice="1080.43" rPrice="1350.54"/>
 <categoryId>61</categoryId>
@@ -26000,7 +25932,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PGVAE11</id>
-<qty>57</qty>
+<qty>107</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PGVAE11</url>
 <price qty="1" costPrice="1024.8" rPrice="1281.0"/>
 <categoryId>61</categoryId>
@@ -30865,7 +30797,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KT118D16NADS1253LY</url>
 <price qty="1" costPrice="1930.53" rPrice="2413.16"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kt118d16nads1253ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KT118-D16-DS1253_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT118-D16-DS1253_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT118-D16-DS1253_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT118-D16-DS1253_0004.jpg</picture>
 <name>Индуктивный датчик KT118-D16NA-DS1253-LY, никелированная латунь, незаподлицо, диаметр М18, расстояние срабатывания 16 мм, NPN-НО, 3х проводное подключение, разъём М12</name>
 <partNumber>KT118-D16NA-DS1253-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -30889,7 +30824,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KT112D08PBDS1250LY</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kt112d08pbds1250ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-DS1250_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-DS1250_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-DS1250_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-DS1250_0004.jpg</picture>
 <name>Индуктивный датчик KT112-D08PB-DS1250-LY, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, PNP-НЗ, 3х проводное подключение, разъём М12</name>
 <partNumber>KT112-D08PB-DS1250-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -30913,7 +30851,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KT112D08PBD350LY</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kt112d08pbd350ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0004.jpg</picture>
 <name>Индуктивный датчик KT112-D08PB-D350-LY, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, PNP-НЗ, 3х проводное подключение, кабель 2 метра</name>
 <partNumber>KT112-D08PB-D350-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -30937,7 +30878,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KT112D08NAD350LY</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kt112d08nad350ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KT112-D08-D350_0004.jpg</picture>
 <name>Индуктивный датчик KT112-D08NA-D350-LY, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, NPN-НО, 3х проводное подключение, кабель 2 метра</name>
 <partNumber>KT112-D08NA-D350-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -30961,7 +30905,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04PBDS1250LY</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kj112d04pbds1250ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-DS1250-_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-DS1250-_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-DS1250-_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-DS1250-_0004.jpg</picture>
 <name>Индуктивный датчик KJ112-D04PB-DS1250-LY, никелированная латунь, заподлицо, диаметр М12, расстояние срабатывания 4 мм, PNP-НЗ, 3х проводное подключение, разъём M12</name>
 <partNumber>KJ112-D04PB-DS1250-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -30985,7 +30932,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04PBD350LY</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kj112d04pbd350ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0004.jpg</picture>
 <name>Индуктивный датчик KJ112-D04PB-D350-LY, никелированная латунь, заподлицо, диаметр М12, расстояние срабатывания 4 мм, PNP-НЗ, 3х проводное подключение, кабель 2 метра</name>
 <partNumber>KJ112-D04PB-D350-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -31009,7 +30959,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04NBD350LY</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kj112d04nbd350ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0004.jpg</picture>
 <name>Индуктивный датчик KJ112-D04NB-D350-LY, никелированная латунь, заподлицо, диаметр М12, расстояние срабатывания 4 мм, NPN-НЗ, 3х проводное подключение, кабель 2 метра</name>
 <partNumber>KJ112-D04NB-D350-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -31033,7 +30986,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04NAD350LY</url>
 <price qty="1" costPrice="1705.07" rPrice="2131.34"/>
 <categoryId>76</categoryId>
-<picture>https://www.prompower.ru/products/prompower/kj112d04nad350ly.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/KJ112-D04-D350_0004.jpg</picture>
 <name>Индуктивный датчик KJ112-D04NA-D350-LY, никелированная латунь, заподлицо, диаметр М12, расстояние срабатывания 4 мм, NPN-НО, 3х проводное подключение, кабель 2 метра</name>
 <partNumber>KJ112-D04NA-D350-LY</partNumber>
 <vendor>Prompower</vendor>
@@ -31583,7 +31539,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <qty>9</qty>
 <url>https://www.prompower.ru/catalog/servo-cables-and-terminals/JAMC10L4PS</url>
 <price qty="1" costPrice="1805.8" rPrice="2185.02"/>
-<picture>https://www.prompower.ru/products/prompower/jamc10l4ps.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/jam-l15_c10.jpg</picture>
 <name>JAM-C10-L4(PS) Комплект разъёмов</name>
 <partNumber>JAM-C10-L4(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -31599,7 +31555,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <qty>3</qty>
 <url>https://www.prompower.ru/catalog/servo-cables-and-terminals/JAME7XE6PS</url>
 <price qty="1" costPrice="1003.22" rPrice="1213.9"/>
-<picture>https://www.prompower.ru/products/prompower/jame7xe6ps.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/jam-e7-e6_xe6.jpg</picture>
 <name>JAM-E7-XE6(PS)  Комплект разъёмов</name>
 <partNumber>JAM-E7-XE6(PS)</partNumber>
 <vendor>Prompower</vendor>
@@ -36952,7 +36908,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PP2RF08SL</id>
-<qty>2829</qty>
+<qty>2819</qty>
 <url>https://www.prompower.ru/catalog/relays/relay-terminal/PP2RF08SL</url>
 <price qty="1" costPrice="591.46" rPrice="739.32"/>
 <categoryId>23</categoryId>
@@ -37010,7 +36966,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PP2RF05SL</id>
-<qty>2850</qty>
+<qty>2851</qty>
 <url>https://www.prompower.ru/catalog/relays/relay-terminal/PP2RF05SL</url>
 <price qty="1" costPrice="542.66" rPrice="678.32"/>
 <categoryId>23</categoryId>
@@ -38074,7 +38030,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D65M7</id>
-<qty>0</qty>
+<qty>26</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D65M7</url>
 <price qty="1" costPrice="7155.06" rPrice="8943.82"/>
 <categoryId>62</categoryId>
@@ -38176,7 +38132,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLMEC932A</id>
-<qty>0</qty>
+<qty>50</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLMEC932A</url>
 <price qty="1" costPrice="794.46" rPrice="993.08"/>
 <categoryId>62</categoryId>
@@ -38294,7 +38250,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D09BD</id>
-<qty>0</qty>
+<qty>159</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D09BD</url>
 <price qty="1" costPrice="4270.0" rPrice="5337.5"/>
 <categoryId>62</categoryId>
@@ -38328,7 +38284,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D09M7</id>
-<qty>0</qty>
+<qty>123</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D09M7</url>
 <price qty="1" costPrice="1539.15" rPrice="1923.94"/>
 <categoryId>62</categoryId>
@@ -38362,7 +38318,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D12BD</id>
-<qty>0</qty>
+<qty>299</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D12BD</url>
 <price qty="1" costPrice="3864.96" rPrice="4831.2"/>
 <categoryId>62</categoryId>
@@ -38430,7 +38386,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D18BD</id>
-<qty>0</qty>
+<qty>90</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D18BD</url>
 <price qty="1" costPrice="4533.52" rPrice="5666.9"/>
 <categoryId>62</categoryId>
@@ -38464,7 +38420,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D18M7</id>
-<qty>60</qty>
+<qty>124</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D18M7</url>
 <price qty="1" costPrice="1860.26" rPrice="2325.32"/>
 <categoryId>62</categoryId>
@@ -38498,7 +38454,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D25BD</id>
-<qty>0</qty>
+<qty>51</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D25BD</url>
 <price qty="1" costPrice="6435.74" rPrice="8044.68"/>
 <categoryId>62</categoryId>
@@ -38532,7 +38488,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D25M7</id>
-<qty>0</qty>
+<qty>135</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D25M7</url>
 <price qty="1" costPrice="2396.08" rPrice="2995.1"/>
 <categoryId>62</categoryId>
@@ -38600,7 +38556,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D32M7</id>
-<qty>0</qty>
+<qty>71</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D32M7</url>
 <price qty="1" costPrice="2810.88" rPrice="3513.6"/>
 <categoryId>62</categoryId>
@@ -38702,7 +38658,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D40M7</id>
-<qty>0</qty>
+<qty>29</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D40M7</url>
 <price qty="1" costPrice="4831.2" rPrice="6039.0"/>
 <categoryId>62</categoryId>
@@ -38770,7 +38726,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1D50M7</id>
-<qty>0</qty>
+<qty>20</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D50M7</url>
 <price qty="1" costPrice="6027.78" rPrice="7534.72"/>
 <categoryId>62</categoryId>
@@ -39269,7 +39225,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLP1K1210BD</id>
-<qty>3</qty>
+<qty>88</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLP1K1210BD</url>
 <price qty="1" costPrice="3905.95" rPrice="4882.44"/>
 <categoryId>63</categoryId>
@@ -39507,7 +39463,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1K1210M7</id>
-<qty>0</qty>
+<qty>170</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLC1K1210M7</url>
 <price qty="1" costPrice="1800.72" rPrice="2250.9"/>
 <categoryId>63</categoryId>
@@ -39541,7 +39497,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1K1201M7</id>
-<qty>0</qty>
+<qty>24</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLC1K1201M7</url>
 <price qty="1" costPrice="1893.44" rPrice="2366.8"/>
 <categoryId>63</categoryId>
@@ -39609,7 +39565,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PLC1K0910M7</id>
-<qty>0</qty>
+<qty>75</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLC1K0910M7</url>
 <price qty="1" costPrice="1363.47" rPrice="1704.34"/>
 <categoryId>63</categoryId>
@@ -40457,16 +40413,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/plc/plc-modules/PMPWBOXLED</url>
 <price qty="1" costPrice="17600.26" rPrice="21296.32"/>
 <categoryId>47</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PMP-WBOXL-ED.png</picture>
 <name>Модуль расширения PROMPOWER PMP-WBOXL-ED</name>
 <partNumber>PMP-WBOXL-ED</partNumber>
 <vendor>Prompower</vendor>
@@ -79371,12 +79318,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inverters/inverter-options/PDCommsCable</url>
 <price qty="1" costPrice="7885.51" rPrice="6702.68"/>
 <categoryId>21</categoryId>
-<picture>https://www.prompower.ru/products/prompower/PDCommsCable_0000.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsCable_0001.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsCable_0002.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsCable_0003.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsCable_0004.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsCable_0005.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsCable-5TB0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsCable-5TB0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsCable-5TB0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsCable-5TB0003.png</picture>
 <name>Адаптер PD-CommsCable для подключения ПК к преобразователям частоты PD150, PD210, PD310</name>
 <partNumber>PD-CommsCable</partNumber>
 <vendor>Prompower</vendor>
@@ -79494,12 +79439,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/inverters/inverter-options/PDCommsRepeater</url>
 <price qty="1" costPrice="7185.08" rPrice="6107.32"/>
 <categoryId>21</categoryId>
-<picture>https://www.prompower.ru/products/prompower/PDCommsRepeater_0000.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsRepeater_0001.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsRepeater_0002.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsRepeater_0003.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsRepeater_0004.webp</picture>
-<picture>https://www.prompower.ru/products/prompower/PDCommsRepeater_0005.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsRepeater_0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsRepeater_0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsRepeater_0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PD-CommsRepeater_0003.png</picture>
 <name>Промышленный ретранслятор PD-CommsRepeater RS-485/422 с гальванической развязкой для преобразователей частоты PD150, PD210, PD310</name>
 <partNumber>PD-CommsRepeater</partNumber>
 <vendor>Prompower</vendor>
@@ -79737,7 +79680,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PH1102SFE</id>
-<qty>13</qty>
+<qty>12</qty>
 <url>https://www.prompower.ru/catalog/hmi/ph1/PH1102SFE</url>
 <price qty="1" costPrice="43515.25" rPrice="36987.96"/>
 <categoryId>99</categoryId>
@@ -79832,7 +79775,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/hmi/ph1/PH1070SF</url>
 <price qty="1" costPrice="12429.65" rPrice="10565.2"/>
 <categoryId>99</categoryId>
-<picture>https://www.prompower.ru/products/prompower/ph1070sf.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-F0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-F0002.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-F0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-F0006.jpg</picture>
 <name>Панель оператора PROMPOWER PH1-070S-F. Диагональ 7&quot;. Экран TFT разрешение 800*480. Сетевые подключения RS232,RS422/RS485. Среда разработки PROMPOWER HMI Studio</name>
 <partNumber>PH1-070S-F</partNumber>
 <vendor>Prompower</vendor>
@@ -79859,7 +79805,10 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/hmi/ph1/PH1070SFE</url>
 <price qty="1" costPrice="21611.22" rPrice="18369.54"/>
 <categoryId>99</categoryId>
-<picture>https://www.prompower.ru/products/prompower/ph1070sfe.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-FE0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-FE0002.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-FE0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PH1-070S-FE0006.jpg</picture>
 <name>Панель оператора PROMPOWER PH1-070S-FE. Диагональ 7&quot;. Экран TFT разрешение 800*480.  Встроенный Ethernet. Сетевые подключения Ethernet/RS232,RS422/RS485. Среда разработки PROMPOWER HMI Studio</name>
 <partNumber>PH1-070S-FE</partNumber>
 <vendor>Prompower</vendor>
@@ -89515,16 +89464,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/promyshlennye-kompyutery/panel-pc/PICI57200U15R</url>
 <price qty="1" costPrice="128428.69" rPrice="155398.72"/>
 <categoryId>69</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/15 + logo.png</picture>
 <name>Промышленный панельный компьютер PROMPOWER PIC-I57200U-15-R</name>
 <partNumber>PIC-I57200U-15-R</partNumber>
 <vendor>Prompower</vendor>
@@ -100205,7 +100145,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD150A4150B</id>
-<qty>20</qty>
+<qty>19</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd150/PD150A4150B</url>
 <price qty="1" costPrice="29880.24" rPrice="37350.3"/>
 <categoryId>70</categoryId>
@@ -100646,7 +100586,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4185B</id>
-<qty>10</qty>
+<qty>8</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4185B</url>
 <price qty="1" costPrice="69443.38" rPrice="86804.22"/>
 <categoryId>49</categoryId>
@@ -101056,7 +100996,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4055B</id>
-<qty>41</qty>
+<qty>22</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4055B</url>
 <price qty="1" costPrice="29741.65" rPrice="37177.06"/>
 <categoryId>49</categoryId>
@@ -101094,7 +101034,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD210A4075B</id>
-<qty>36</qty>
+<qty>32</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4075B</url>
 <price qty="1" costPrice="37986.9" rPrice="47483.62"/>
 <categoryId>49</categoryId>
@@ -102032,7 +101972,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PD310A4300B</id>
-<qty>10</qty>
+<qty>9</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4300B</url>
 <price qty="1" costPrice="129021.34" rPrice="161276.68"/>
 <categoryId>42</categoryId>
@@ -105970,7 +105910,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/plc/pmp30/PMP3060PA32E</url>
 <price qty="1" costPrice="74787.01" rPrice="90492.28"/>
 <categoryId>46</categoryId>
-<picture>https://www.prompower.ru/products/prompower/pmp3060pa32e.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/PMP30-60PA32-E_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PMP30-60PA32-E_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PMP30-60PA32-E_0002.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PMP30-60PA32-E_0003.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/PMP30-60PA32-E_0004.jpg</picture>
 <name>Контроллер PROMPOWER PMP30-60PA32-E. Среда разработки Codesys. Питание 220VAC. 36 входов(PNP)/24 выхода(NPN). Встроенные порты Ethernet/EtherCAT. Управление по шине EtherCAT до 32 устройств</name>
 <partNumber>PMP30-60PA32-E</partNumber>
 <vendor>Prompower</vendor>
@@ -106000,7 +105944,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PMP30124A8</id>
-<qty>240</qty>
+<qty>180</qty>
 <url>https://www.prompower.ru/catalog/plc/pmp301/PMP30124A8</url>
 <price qty="1" costPrice="38625.6" rPrice="46736.98"/>
 <categoryId>73</categoryId>
@@ -107900,7 +107844,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/promyshlennye-kompyutery/industrial-pc/PIPCMM6I712700</url>
 <price qty="1" costPrice="126042.13" rPrice="152510.98"/>
 <categoryId>65</categoryId>
-<picture>https://www.prompower.ru/products/prompower/pipcmm6i712700.webp</picture>
+<picture>https://www.prompower.ru/catalog/products/PIPC-MM4,5,6.png</picture>
 <name>Промышленный компьютер PIPC-MM6-I712700</name>
 <partNumber>PIPC-MM6-I712700</partNumber>
 <vendor>Prompower</vendor>
@@ -108026,7 +107970,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2R2SDC24</id>
-<qty>3348</qty>
+<qty>3338</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R2SDC24</url>
 <price qty="1" costPrice="517.28" rPrice="646.6"/>
 <categoryId>10</categoryId>
@@ -108125,7 +108069,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2R1SDC24</id>
-<qty>1965</qty>
+<qty>3165</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R1SDC24</url>
 <price qty="1" costPrice="518.26" rPrice="647.82"/>
 <categoryId>10</categoryId>
@@ -108158,7 +108102,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2R1SAC24</id>
-<qty>427</qty>
+<qty>428</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R1SAC24</url>
 <price qty="1" costPrice="690.03" rPrice="862.54"/>
 <categoryId>10</categoryId>
@@ -108191,7 +108135,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2R2SAC230</id>
-<qty>2909</qty>
+<qty>3709</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R2SAC230</url>
 <price qty="1" costPrice="678.32" rPrice="847.9"/>
 <categoryId>10</categoryId>
@@ -108257,7 +108201,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2R1SDC12</id>
-<qty>148</qty>
+<qty>208</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R1SDC12</url>
 <price qty="1" costPrice="518.26" rPrice="647.82"/>
 <categoryId>10</categoryId>
@@ -108290,7 +108234,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2RVSR700DC24</id>
-<qty>6027</qty>
+<qty>8022</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR700DC24</url>
 <price qty="1" costPrice="851.07" rPrice="1063.84"/>
 <categoryId>11</categoryId>
@@ -108422,7 +108366,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>PG2RVSR500DC24</id>
-<qty>5523</qty>
+<qty>5513</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR500DC24</url>
 <price qty="1" costPrice="911.58" rPrice="1139.48"/>
 <categoryId>11</categoryId>
@@ -115540,16 +115484,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6G110CM30BZ241P5</url>
 <price qty="1" costPrice="52476.13" rPrice="63496.12"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PSM6G-110CS30B2-41P5_STEP0000.png</picture>
 <name>Серводвигатель PSM6G-110CM30BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,78 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</name>
 <partNumber>PSM6G-110CM30BZ2-41P5</partNumber>
 <vendor>Prompower</vendor>
@@ -117393,16 +117328,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6G180TH15BZ247P5</url>
 <price qty="1" costPrice="181341.4" rPrice="219423.1"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-180TH15BZ2-47P5_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-180TH15BZ2-47P5_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-180TH15BZ2-47P5_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-180TH15BZ2-47P5_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-180TH15BZ2-47P5_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-180TH15BZ2-47P5_STEP0005.png</picture>
 <name>Серводвигатель PSM6G-180TH15BZ2-47P5, с тормозом, номинальная мощность 7,5 кВт, номинальный момент 48 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6G-180TH15BZ2-47P5</partNumber>
 <vendor>Prompower</vendor>
@@ -117912,16 +117843,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6G130TH15BZ242P3</url>
 <price qty="1" costPrice="76629.11" rPrice="92721.22"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-130TH15BZ2-22P3_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-130TH15BZ2-22P3_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-130TH15BZ2-22P3_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-130TH15BZ2-22P3_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-130TH15BZ2-22P3_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6G-130TH15BZ2-22P3_STEP0005.png</picture>
 <name>Серводвигатель PSM6G-130TH15BZ2-42P3, с тормозом, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6G-130TH15BZ2-42P3</partNumber>
 <vendor>Prompower</vendor>
@@ -118261,16 +118188,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6L100TH30BZ242P5</url>
 <price qty="1" costPrice="85054.17" rPrice="102915.54"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0005.png</picture>
 <name>Серводвигатель PSM6L-100TH30BZ2-42P5, с тормозом, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30BZ2-42P5</partNumber>
 <vendor>Prompower</vendor>
@@ -118300,16 +118223,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6L100TH30BZ241P5</url>
 <price qty="1" costPrice="79437.12" rPrice="96118.92"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0005.png</picture>
 <name>Серводвигатель PSM6L-100TH30BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30BZ2-41P5</partNumber>
 <vendor>Prompower</vendor>
@@ -118474,16 +118393,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6L100TH30BZ221P5</url>
 <price qty="1" costPrice="73820.08" rPrice="89322.3"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0005.png</picture>
 <name>Серводвигатель PSM6L-100TH30BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30BZ2-21P5</partNumber>
 <vendor>Prompower</vendor>
@@ -118818,16 +118733,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6S80TH30B320P7</url>
 <price qty="1" costPrice="34823.44" rPrice="42136.36"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0005.png</picture>
 <name>Серводвигатель PSM6S-80TH30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30B3-20P7</partNumber>
 <vendor>Prompower</vendor>
@@ -118856,16 +118767,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6S80TH30B321P0</url>
 <price qty="1" costPrice="39035.97" rPrice="47233.52"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0005.png</picture>
 <name>Серводвигатель PSM6S-80TH30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30B3-21P0</partNumber>
 <vendor>Prompower</vendor>
@@ -118894,16 +118801,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6S80TH30BZ320P7</url>
 <price qty="1" costPrice="43649.79" rPrice="52816.24"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0005.png</picture>
 <name>Серводвигатель PSM6S-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30BZ3-20P7</partNumber>
 <vendor>Prompower</vendor>
@@ -118932,16 +118835,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6S80TH30BZ321P0</url>
 <price qty="1" costPrice="47863.32" rPrice="57914.62"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0005.png</picture>
 <name>Серводвигатель PSM6S-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6S-80TH30BZ3-21P0</partNumber>
 <vendor>Prompower</vendor>
@@ -119040,16 +118939,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H40TH30B320P1</url>
 <price qty="1" costPrice="36227.95" rPrice="43835.82"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30B3-20P1_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30B3-20P1_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30B3-20P1_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30B3-20P1_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30B3-20P1_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30B3-20P1_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-40TH30B3-20P1, без тормоза, номинальная мощность 0,1 кВт, номинальный момент 0,32 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-40TH30B3-20P1</partNumber>
 <vendor>Prompower</vendor>
@@ -119078,16 +118973,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6L100TH30B242P5</url>
 <price qty="1" costPrice="73017.5" rPrice="88351.18"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0005.png</picture>
 <name>Серводвигатель PSM6L-100TH30B2-42P5, без тормоза, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30B2-42P5</partNumber>
 <vendor>Prompower</vendor>
@@ -119117,16 +119008,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6L100TH30B241P5</url>
 <price qty="1" costPrice="67401.47" rPrice="81555.78"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0005.png</picture>
 <name>Серводвигатель PSM6L-100TH30B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30B2-41P5</partNumber>
 <vendor>Prompower</vendor>
@@ -119155,16 +119042,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6L100TH30B221P5</url>
 <price qty="1" costPrice="61784.43" rPrice="74759.16"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0005.png</picture>
 <name>Серводвигатель PSM6L-100TH30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6L-100TH30B2-21P5</partNumber>
 <vendor>Prompower</vendor>
@@ -119193,16 +119076,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H80TH30BZ321P0</url>
 <price qty="1" costPrice="49266.83" rPrice="59612.86"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-80TH30BZ3-21P0</partNumber>
 <vendor>Prompower</vendor>
@@ -119231,16 +119110,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H80TH30BZ320P7</url>
 <price qty="1" costPrice="45335.6" rPrice="54856.08"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-80TH30BZ3-20P7</partNumber>
 <vendor>Prompower</vendor>
@@ -119269,16 +119144,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H80TH30B321P0</url>
 <price qty="1" costPrice="40440.48" rPrice="48932.98"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-80TH30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-80TH30B3-21P0</partNumber>
 <vendor>Prompower</vendor>
@@ -119309,16 +119180,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H80TH30B320P7</url>
 <price qty="1" costPrice="36509.26" rPrice="44176.2"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-80TH30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-80TH30B3-20P7</partNumber>
 <vendor>Prompower</vendor>
@@ -119347,16 +119214,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H60TH30BZ320P4</url>
 <price qty="1" costPrice="44251.72" rPrice="53544.58"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30BZ3-20P4_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30BZ3-20P4_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30BZ3-20P4_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30BZ3-20P4_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30BZ3-20P4_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30BZ3-20P4_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-60TH30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-60TH30BZ3-20P4</partNumber>
 <vendor>Prompower</vendor>
@@ -119385,16 +119248,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H60TH30B320P4</url>
 <price qty="1" costPrice="36227.95" rPrice="43835.82"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30B3-20P4_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30B3-20P4_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30B3-20P4_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30B3-20P4_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30B3-20P4_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6S-60TH30B3-20P4_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-60TH30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-60TH30B3-20P4</partNumber>
 <vendor>Prompower</vendor>
@@ -119423,16 +119282,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6H40TH30BZ320P1</url>
 <price qty="1" costPrice="44251.72" rPrice="53544.58"/>
 <categoryId>53</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30BZ3-20P1_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30BZ3-20P1_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30BZ3-20P1_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30BZ3-20P1_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30BZ3-20P1_STEP0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/MS6H-40TH30BZ3-20P1_STEP0005.png</picture>
 <name>Серводвигатель PSM6H-40TH30BZ3-20P1, с тормозом, номинальная мощность 0,1 кВт, номинальный момент 0,32 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</name>
 <partNumber>PSM6H-40TH30BZ3-20P1</partNumber>
 <vendor>Prompower</vendor>
@@ -120687,16 +120542,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-drivers/PSD5K243P0PTA</url>
 <price qty="1" costPrice="56167.39" rPrice="67962.54"/>
 <categoryId>54</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-43P0-PTA__stp0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-43P0-PTA__stp0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-43P0-PTA__stp0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-43P0-PTA__stp0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-43P0-PTA__stp0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-43P0-PTA__stp0005.png</picture>
 <name>Сервопривод серии PSD5K2. 3 кВт, 3x400В, Аналогово-импульсное, Modbus</name>
 <partNumber>PSD5K2-43P0-PTA</partNumber>
 <vendor>Prompower</vendor>
@@ -121679,16 +121530,11 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-drivers/PSD5K120P7PTA</url>
 <price qty="1" costPrice="26286.46" rPrice="31806.62"/>
 <categoryId>54</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PSD5F-20P7-PTA_STEP0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PSD5F-20P7-PTA_STEP0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PSD5F-20P7-PTA_STEP0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PSD5F-20P7-PTA_STEP0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/PSD5F-20P7-PTA_STEP0004.png</picture>
 <name>PSD5K1-20P7-PTA Сервопривод серии PSD5. 0,75 кВт, 1х200В, импульсное управление, Modbus RTU</name>
 <partNumber>PSD5K1-20P7-PTA</partNumber>
 <vendor>Prompower</vendor>
@@ -122877,16 +122723,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-drivers/PSD5K245P5PTA</url>
 <price qty="1" costPrice="77230.03" rPrice="93448.34"/>
 <categoryId>54</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-45P5-PTA__stp0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-45P5-PTA__stp0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-45P5-PTA__stp0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-45P5-PTA__stp0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-45P5-PTA__stp0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-45P5-PTA__stp0005.png</picture>
 <name>Сервопривод серии PSD5K2. 5.5 кВт, 3x400В, Аналогово-импульсное, Modbus</name>
 <partNumber>PSD5K2-45P5-PTA</partNumber>
 <vendor>Prompower</vendor>
@@ -122918,16 +122760,12 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <url>https://www.prompower.ru/catalog/servo/servo-drivers/PSD5K247P5PTA</url>
 <price qty="1" costPrice="84251.59" rPrice="101944.42"/>
 <categoryId>54</categoryId>
-<picture>https://brilka.github.io/feed-for-onlinestore/1.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/2.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/3.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/4.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/5.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/6.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/7.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/8.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/9.png</picture>
-<picture>https://brilka.github.io/feed-for-onlinestore/10.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-47P5-PTA__stp0000.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-47P5-PTA__stp0001.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-47P5-PTA__stp0002.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-47P5-PTA__stp0003.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-47P5-PTA__stp0004.png</picture>
+<picture>https://www.prompower.ru/catalog/products/DS5K2-47P5-PTA__stp0005.png</picture>
 <name>Сервопривод серии PSD5K2. 7.5 кВт, 3x400В, Аналогово-импульсное, Modbus</name>
 <partNumber>PSD5K2-47P5-PTA</partNumber>
 <vendor>Prompower</vendor>
@@ -128475,6 +128313,9 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="61839.36" rPrice="77299.2"/>
 <categoryId>32</categoryId>
 <picture>https://www.prompower.ru/catalog/products/bsk-d28_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-d28_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-d28_0002.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-d28_0003.jpg</picture>
 <name>Тормозной резистор PROMPOWER PDBR-30K-18R-40-T1, мощность 30 кВт, 18 Ом, ПВ 40% (120 с), IP 54, способ подключения: клеммная колодка, корпус из оцинкованной стали, габарит Д28 (Ширина 240 мм; Высота 195 мм; Длина 835 мм) масса 20 кг. Датчик температу</name>
 <partNumber>PDBR-30K-18R-40-T1</partNumber>
 <vendor>Prompower</vendor>
@@ -135050,6 +134891,9 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="128100.98" rPrice="160126.22"/>
 <categoryId>32</categoryId>
 <picture>https://www.prompower.ru/catalog/products/bsk-d50_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-d50_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-d50_0002.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-d50_0003.jpg</picture>
 <name>Тормозной резистор PROMPOWER PDBR-220K-3R5-10-T1, мощность 220 кВт, 3,5 Ом, ПВ 10% (120 с), IP 54, способ подключения: клеммная колодка, корпус из оцинкованной стали, габарит Д50 (Ширина 240 мм; Высота 350 мм; Длина 835 мм) масса 30 кг. Датчик темпер</name>
 <partNumber>PDBR-220K-3R5-10-T1</partNumber>
 <vendor>Prompower</vendor>
@@ -135880,6 +135724,9 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 <price qty="1" costPrice="56311.3" rPrice="70389.12"/>
 <categoryId>32</categoryId>
 <picture>https://www.prompower.ru/catalog/products/bsk-g12_0000.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-g12_0001.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-g12_0002.jpg</picture>
+<picture>https://www.prompower.ru/catalog/products/bsk-g12_0003.jpg</picture>
 <name>Тормозной резистор PROMPOWER PDBR-250K-3R5-2-T1, мощность 250 кВт, 3,5 Ом, ПВ 2% (120 с), IP 54, способ подключения: клеммная колодка, корпус из оцинкованной стали, габарит М12 (Ширина 200 мм; Высота 125 мм; Длина 460 мм) масса 14 кг. Датчик температ</name>
 <partNumber>PDBR-250K-3R5-2-T1</partNumber>
 <vendor>Prompower</vendor>
@@ -137285,7 +137132,7 @@ https://github.com/brilka/feed-for-onlinestore/blob/cc58148495a4db33e65ae255e720
 </offer>
 <offer>
 <id>P2S050411A</id>
-<qty>0</qty>
+<qty>11</qty>
 <url>https://www.prompower.ru/catalog/softstarters/p2s-050/P2S050411A</url>
 <price qty="1" costPrice="21924.86" rPrice="27406.08"/>
 <categoryId>68</categoryId>
