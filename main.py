@@ -1,7 +1,8 @@
 """
 ОПИСАНИЕ СКРИПТА:
 Этот универсальный код предназначен для автоматической генерации XML-фидов (выгрузок товаров) 
-брендов Prompower и Unimat сразу для нескольких интернет-магазинов ("Чип и Дип" и "Stoking").
+брендов Prompower и Unimat сразу для нескольких интернет-магазинов ("Чип и Дип" и "Stoking"),
+а также для ведения умного лога изменений цен и остатков (Delta-лог).
 
 Где используется: В репозитории feed-for-onlinestore на GitHub Actions.
 
@@ -12,12 +13,15 @@
 4. Для каждого клиента (сначала Чип и Дип, затем Stoking) применяет индивидуальные правила расчета цен (costPrice и rPrice),
    форматирования комментариев и набора XML-тегов.
 5. Сохраняет готовые XML-файлы на GitHub Pages, а также создает для каждого клиента аварийный файл ZEROwarehouse с нулевыми остатками.
+6. Если режим отладки ВЫКЛЮЧЕН — сравнивает сегодняшние цены и остатки со вчерашними (из logs/last_state.json)
+   и дописывает все произошедшие изменения в помесячный файл logs/history_ГГГГ-ММ.csv для открытия в Excel.
 """
 
 import requests
 import json
 import os
 import re
+import csv
 import datetime
 import time
 import urllib.parse
@@ -44,15 +48,17 @@ if not EMAIL or not KEY:
     print("КРИТИЧЕСКАЯ ОШИБКА: Не заданы секреты API_EMAIL или API_KEY в GitHub Secrets!")
     exit(1)
 
-# Базовые адреса сайта-источника и вашего нового репозитория
+# Базовые адреса сайта-источника и вашего репозитория
 REPO_NAME = "feed-for-onlinestore"
 API_URL = "https://prompower.ru/api/prod/"
 SITE_URL = "https://www.prompower.ru"
 PAGES_BASE_URL = f"https://brilka.github.io/{REPO_NAME}/"
 
-# Названия файлов кэша (новый и старый для плавного переноса данных)
+# Названия файлов кэша и папка для логов цен/остатков
 CACHE_FILENAME = "pdf_cache.json"
 OLD_CACHE_FILENAME = "chipidip_pdf_cache.json"
+LOGS_DIR = "logs"
+STATE_FILENAME = os.path.join(LOGS_DIR, "last_state.json")
 
 # Список клиентов и имен их итоговых XML-файлов
 CLIENTS_CONFIG = [
@@ -70,7 +76,7 @@ CLIENTS_CONFIG = [
 
 
 # ==============================================================================
-# 2. ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ (Экранирование XML, работа с кэшем и API)
+# 2. ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ (Экранирование XML, форматирование чисел, кэш и API)
 # ==============================================================================
 
 def xml_escape(text):
@@ -81,6 +87,22 @@ def xml_escape(text):
     if text is None:
         return ""
     return escape(str(text), {'"': '&quot;', "'": '&apos;'})
+
+
+def format_excel_num(val):
+    """
+    Форматирует число для русского Excel (заменяет точку на запятую, убирает лишний '.0').
+    Например: 2020.0 -> '2020', 1250.55 -> '1250,55'.
+    """
+    if val is None or val == "":
+        return ""
+    try:
+        num = float(val)
+        if num.is_integer():
+            return str(int(num))
+        return str(round(num, 2)).replace(".", ",")
+    except (ValueError, TypeError):
+        return str(val).replace(".", ",")
 
 
 # Словарь сопоставления категорий поставщика (Prompower/Unimat) и кодов групп для Чип и Дип
@@ -191,7 +213,7 @@ UNIMAT_PICTURES = [
     "https://unimat-russia.ru/uploads/product-33.png"
 ]
 
-# Статичный список 9 PDF-документов для товаров бренда Unimat (сразу с учетом нового имени репозитория)
+# Статичный список 9 PDF-документов для товаров бренда Unimat
 UNIMAT_PDFS = [
     f"https://github.com/brilka/{REPO_NAME}/blob/main/Unimat/HMI%20Catalogue%206-18.pdf",
     f"https://github.com/brilka/{REPO_NAME}/blob/main/Unimat/UN%20120%20Series%20PLC%20(1-2).pdf",
@@ -208,7 +230,7 @@ UNIMAT_PDFS = [
 COMMON_CERT_RAW_URL = f"https://github.com/brilka/{REPO_NAME}/raw/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf"
 COMMON_CERT_COMMENT_URL = f"https://github.com/brilka/{REPO_NAME}/blob/cc58148495a4db33e65ae255e720914c295e4fb0/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%A2%D0%A0%20%D0%A2%D0%A1.pdf"
 
-# Генерируем 10 ссылок на запасные картинки (1.png - 10.png) в переименованном репозитории
+# Генерируем 10 ссылок на запасные картинки (1.png - 10.png) в репозитории
 DEFAULT_PROMPOWER_PICTURES = [
     f"{PAGES_BASE_URL}{i}.png" for i in range(1, 11)
 ]
@@ -331,7 +353,7 @@ costPrice - цена продажи (за единицу измерения) п�
 costPrice=A в том случае, если B/A меньше или равно 0.8, где 
 A считается как price (из API Prompower) умножить на НДС (1.22) и разделить на коэффициент K (изначально при расчёте для каждой позиции K=1.2); 
 B считается как price (из API Prompower) умножить на НДС (1.22) и умножить на (100-discountPercent)/100. discountPercent взять из API Prompower. 
-Если B/A выше 0.85 - то нужно пересчитать A, уменьшая коэффициент K с шагом 0.01 (т.е. 1.2, 1.19, 1.18 и т.д.) до тех пор, пока соотношение B/A не станет меньше или равно 0.8.
+Если B/A выше 0.8 - то нужно пересчитать A, уменьшая коэффициент K с шагом 0.01 (т.е. 1.2, 1.19, 1.18 и т.д.) до тех пор, пока соотношение B/A не станет меньше или равно 0.8.
 
 rPrice - рекомендуемая (прайсовая) цена продажи на сайте Stoking. В интернет-магазине нельзя указывать цену ниже рекомендованной, т.е. ниже прайсовой. Поэтому в интернет-магазине Stoking должна быть указана цена не ниже rPrice. Для всех позиций Prompower и Unimat rPrice равен price (из API Prompower) умножить на НДС (1.22). Если costPrice определяется по Варианту 1, то rPrice равен costPrice/0.9   -->
 """
@@ -426,11 +448,9 @@ def find_chipdip_item_group(prod, categories_dict):
 
     direct_category_name = direct_category_name.strip()
 
-    # Сценарий А: прямой поиск по названию категории
     if direct_category_name:
         item_group_id = NORMALIZED_GROUP_MAP.get(direct_category_name.lower(), "")
 
-    # Сценарий Б: поиск по ID категории с подъемом до 5 уровней вверх по родителям
     if not item_group_id and cat_id and int(cat_id) in categories_dict:
         current_id = int(cat_id)
         for _ in range(5):
@@ -456,10 +476,8 @@ def get_prompower_docs(url, pdf_cache, need_global_pdf_update, scraped_this_run)
     """
     all_product_docs = []
 
-    # 1. Документы со страницы самого товара
     if (need_global_pdf_update and url not in scraped_this_run) or (url not in pdf_cache["urls"]):
         product_docs = scrape_docs(url)
-        # Сохраняем в кэш (если парсинг вдруг вернул пустоту из-за сбоя, а старый кэш был — оставляем старый)
         if product_docs or url not in pdf_cache["urls"]:
             pdf_cache["urls"][url] = product_docs
         scraped_this_run.add(url)
@@ -467,7 +485,6 @@ def get_prompower_docs(url, pdf_cache, need_global_pdf_update, scraped_this_run)
         product_docs = pdf_cache["urls"][url]
     all_product_docs.extend(product_docs)
 
-    # 2. Документы со страницы на уровень выше (категория товара)
     parent_url = "/".join(url.split("/")[:-1])
     if (need_global_pdf_update and parent_url not in scraped_this_run) or (parent_url not in pdf_cache["urls"]):
         parent_docs = scrape_docs(parent_url)
@@ -477,13 +494,11 @@ def get_prompower_docs(url, pdf_cache, need_global_pdf_update, scraped_this_run)
     else:
         parent_docs = pdf_cache["urls"][parent_url]
 
-    # Объединяем документы без дублей ссылок
     existing_urls = [d['url'] for d in all_product_docs]
     for p_doc in parent_docs:
         if p_doc['url'] not in existing_urls:
             all_product_docs.append(p_doc)
 
-    # 3. Обязательный референс-лист проектов по автоматизации
     has_ref = any(d['name'] == "Краткий референс-лист проектов по автоматизации" for d in all_product_docs)
     if not has_ref:
         all_product_docs.append({
@@ -494,10 +509,11 @@ def get_prompower_docs(url, pdf_cache, need_global_pdf_update, scraped_this_run)
     return all_product_docs
 
 
-def process_products_for_client(products, brand, categories_dict, pdf_cache, need_global_pdf_update, scraped_this_run, is_first_offer, client_key):
+def process_products_for_client(products, brand, categories_dict, pdf_cache, need_global_pdf_update, scraped_this_run, is_first_offer, client_key, client_snapshot):
     """
     Преобразует список товаров одного бренда в готовые XML-блоки <offer> 
-    с учетом правил, комментариев и тегов конкретного клиента ('chipdip' или 'stoking').
+    с учетом правил, комментариев и тегов конкретного клиента ('chipdip' или 'stoking'),
+    а также наполняет словарь client_snapshot данными для последующего логирования изменений.
     """
     items_xml = []
     param_regex = re.compile(r"^(.*?)(?:\s*\((.*?)\))?$")
@@ -516,7 +532,7 @@ def process_products_for_client(products, brand, categories_dict, pdf_cache, nee
         price_val = float(raw_price)
         mrp_percent = float(prod.get('MRPPercent') or 0)
         discount_percent = float(prod.get('discountPercent') or 0)
-        instock = str(prod.get('instock') if prod.get('instock') is not None else 0)
+        instock = str(prod.get('instock') if prod.get('instock') is not None else 0).strip()
         description = str(prod.get('description') or '')
         title = str(prod.get('title') or '')
         tnved = str(prod.get('tnved') or '').strip()
@@ -532,6 +548,14 @@ def process_products_for_client(products, brand, categories_dict, pdf_cache, nee
 
         # Шаг 4: Рассчитываем цены под финансовую модель текущего клиента
         cost_price, r_price = calculate_prices(price_val, mrp_percent, discount_percent, client_key)
+
+        # Записываем текущие цены и остаток этого товара в «снимок дня» (для лога изменений)
+        client_snapshot[article] = {
+            "price": round(price_val, 2),
+            "costPrice": cost_price,
+            "rPrice": r_price,
+            "qty": instock
+        }
 
         # Шаг 5: Начинаем собирать XML-блок <offer>
         offer_xml = ["<offer>"]
@@ -604,7 +628,6 @@ rPrice - рекомендуемая цена продажи на сайте Чи
                     img_url = img if img.startswith('http') else SITE_URL + img
                     final_images.append(img_url)
 
-            # Если у товара Prompower не оказалось ни одной картинки, подставляем 10 дефолтных
             if len(final_images) == 0:
                 final_images = DEFAULT_PROMPOWER_PICTURES
 
@@ -688,7 +711,6 @@ rPrice - рекомендуемая цена продажи на сайте Чи
 
         final_desc = description
         if brand == "Unimat" and title:
-            # Заменяем "UN " на "6ES7" для получения обозначения аналога Siemens
             siemens_title = title.replace("UN ", "6ES7")
             if client_key == "stoking":
                 unimat_addition = f"""<br><br>Модули Unimat на 100% совместимы (взаимозаменяемы) с соответствующими модулями Siemens S7-200, S7-300, S7-1200. Чтобы получить артикул Unimat, в большинстве случаев нужно у артикула Siemens заменить 6ES7- на UN-, а остальную часть артикула оставить без изменений.<br><br>Данный модуль Unimat {title} соответствует модулю Siemens {siemens_title}.<br><br>Модули Unimat поддерживаются на складе в России.<br>Кабель Profibus и ProfiNET от Unimat соответствует кабелю Siemens.<br><br>Модули UniMAT монтируются в оригинальный ПЛК Siemens, определяются средой разработки как оригинальные модули Siemens без каких-либо дополнительных манипуляций со стороны программиста.<br><br>Сценарии использования модулей Unimat:<br><br>+ в новых проектах (с оригинальным CPU Siemens)<br>+ в проектах модернизации производства, где установлены ПЛК Siemens S7-200, S7-300 и S7-1200 и требуется их расширение (или замена модулей)<br>+ станции удалённого (распределённого) ввода-вывода от Unimat (Profibus; Profinet)"""
@@ -752,10 +774,9 @@ https://github.com/brilka/{REPO_NAME}/blob/main/Unimat/%D0%9C%D0%BE%D0%B4%D1%83%
                 download_url = pdf_url.replace("/blob/main/", "/raw/main/")
                 offer_xml.append(f'<docFile url="{xml_escape(download_url)}" name="{xml_escape(file_name)}"/>')
 
-        # Добавляем общий PDF-файл со ссылкой на сертификаты ТР ТС для всех товаров
         offer_xml.append(f'<docFile url="{xml_escape(COMMON_CERT_RAW_URL)}" name="Ссылка на сертификаты ТР ТС"/>')
 
-        # --- ITEMGROUPID (ТОЛЬКО для Чип и Дип; для Stoking полностью удален по п.12 ТЗ) ---
+        # --- ITEMGROUPID (Только для Чип и Дип; для Stoking удален) ---
         if client_key != "stoking":
             item_group_id = find_chipdip_item_group(prod, categories_dict)
             if is_first_offer:
@@ -915,7 +936,8 @@ https://github.com/brilka/{REPO_NAME}/blob/main/Unimat/%D0%9C%D0%BE%D0%B4%D1%83%
 
 def generate_client_feeds(client_cfg, prompower_products, unimat_products, categories_dict, pdf_cache, need_global_pdf_update, scraped_this_run):
     """
-    Собирает полный XML-файл для одного клиента (основной + аварийный ZEROwarehouse) и сохраняет их на диск.
+    Собирает полный XML-файл для одного клиента (основной + аварийный ZEROwarehouse),
+    сохраняет их на диск и возвращает словарь актуальных цен/остатков (snapshot) для лога.
     """
     client_key = client_cfg["key"]
     xml_filename = client_cfg["xml_file"]
@@ -924,22 +946,21 @@ def generate_client_feeds(client_cfg, prompower_products, unimat_products, categ
     print(f"\n--- Формирование фида для клиента: {client_key} ({xml_filename}) ---")
 
     all_offers_xml = []
+    client_snapshot = {}
     is_first_offer = True
 
-    # Сначала обрабатываем товары Prompower, затем Unimat
     if prompower_products:
         xml_data, is_first_offer = process_products_for_client(
-            prompower_products, "Prompower", categories_dict, pdf_cache, need_global_pdf_update, scraped_this_run, is_first_offer, client_key
+            prompower_products, "Prompower", categories_dict, pdf_cache, need_global_pdf_update, scraped_this_run, is_first_offer, client_key, client_snapshot
         )
         all_offers_xml.extend(xml_data)
 
     if unimat_products:
         xml_data, is_first_offer = process_products_for_client(
-            unimat_products, "Unimat", categories_dict, pdf_cache, need_global_pdf_update, scraped_this_run, is_first_offer, client_key
+            unimat_products, "Unimat", categories_dict, pdf_cache, need_global_pdf_update, scraped_this_run, is_first_offer, client_key, client_snapshot
         )
         all_offers_xml.extend(xml_data)
 
-    # Формируем шапку XML и дерево категорий
     xml_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<shop>',
@@ -960,7 +981,6 @@ def generate_client_feeds(client_cfg, prompower_products, unimat_products, categ
     xml_lines.append('</offers>')
     xml_lines.append('</shop>')
 
-    # Сохраняем основной файл клиента
     try:
         with open(xml_filename, "w", encoding="utf-8") as f:
             f.write("\n".join(xml_lines))
@@ -968,7 +988,6 @@ def generate_client_feeds(client_cfg, prompower_products, unimat_products, categ
     except Exception as e:
         print(f"[ОШИБКА] Не удалось сохранить файл {xml_filename}: {e}")
 
-    # Генерируем и сохраняем аварийный файл ZEROwarehouse (заменяем все остатки <qty> на 0)
     zero_xml_lines = []
     for line in xml_lines:
         if "<qty>" in line:
@@ -982,9 +1001,142 @@ def generate_client_feeds(client_cfg, prompower_products, unimat_products, categ
     except Exception as e:
         print(f"[ОШИБКА] Не удалось сохранить аварийный файл {zero_xml_filename}: {e}")
 
+    return client_snapshot
+
 
 # ==============================================================================
-# 5. ГЛАВНАЯ ТОЧКА ВХОДА В ПРОГРАММУ
+# 5. ВЕДЕНИЕ УМНОГО ДЕЛЬТА-ЛОГА ЦЕН И ОСТАТКОВ (ДЛЯ EXCEL В ФОРМАТЕ CSV)
+# ==============================================================================
+
+def update_price_stock_log(all_clients_snapshot):
+    """
+    Сравнивает сегодняшние цены и остатки (all_clients_snapshot) со вчерашними (из logs/last_state.json).
+    В файл logs/history_ГГГГ-ММ.csv дописываются ТОЛЬКО те товары, по которым произошли изменения
+    (новая позиция, изменилась какая-то цена/остаток, либо товар пропал из фида).
+    В режиме отладки функция НЕ запускается, чтобы не портить боевую историю.
+    """
+    if DEBUG_MODE:
+        print("\n[ЛОГ ИЗМЕНЕНИЙ] Включен режим отладки — запись в лог цен и остатков отключена.")
+        return
+
+    # Создаем папку logs, если ее еще нет
+    os.makedirs(LOGS_DIR, exist_ok=True)
+
+    # Загружаем предыдущее состояние (вчерашний снимок)
+    last_state = {}
+    if os.path.exists(STATE_FILENAME):
+        try:
+            with open(STATE_FILENAME, "r", encoding="utf-8") as f:
+                last_state = json.load(f)
+        except Exception as e:
+            print(f"[ПРЕДУПРЕЖДЕНИЕ] Не удалось прочитать {STATE_FILENAME} ({e}). Начинаем историю с нуля.")
+
+    # Определяем текущую дату и время по Москве (UTC + 3 часа)
+    msk_now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=3)
+    date_str = msk_now.strftime("%d.%m.%Y")
+    time_str = msk_now.strftime("%H:%M:%S")
+    month_str = msk_now.strftime("%Y-%m")
+    csv_filename = os.path.join(LOGS_DIR, f"history_{month_str}.csv")
+
+    new_rows = []
+    # Переводим названия полей в понятные русские подписи для столбца "Событие"
+    field_labels = {
+        "price": "price (API)",
+        "costPrice": "costPrice",
+        "rPrice": "rPrice",
+        "qty": "qty"
+    }
+
+    # Проходим по всем клиентам из нашего списка (сейчас: chipdip и stoking)
+    for client_key, current_items in all_clients_snapshot.items():
+        prev_items = last_state.get(client_key, {})
+
+        # 1. Ищем новые товары и товары с изменившимися ценами/остатками
+        for article, curr in current_items.items():
+            if article not in prev_items:
+                # Это новый товар (или самый первый запуск логирования)
+                new_rows.append([
+                    date_str,
+                    time_str,
+                    client_key,
+                    article,
+                    format_excel_num(curr["price"]),
+                    format_excel_num(curr["costPrice"]),
+                    format_excel_num(curr["rPrice"]),
+                    curr["qty"],
+                    "Первая запись / Новый товар"
+                ])
+            else:
+                # Товар уже был раньше — сравниваем каждое поле
+                prev = prev_items[article]
+                changes = []
+                for field in ["price", "costPrice", "rPrice", "qty"]:
+                    if str(prev.get(field)) != str(curr.get(field)):
+                        old_val_fmt = format_excel_num(prev.get(field)) if field != "qty" else prev.get(field)
+                        new_val_fmt = format_excel_num(curr.get(field)) if field != "qty" else curr.get(field)
+                        changes.append(f"{field_labels[field]}: {old_val_fmt} -> {new_val_fmt}")
+
+                # Если хотя бы одно значение изменилось — добавляем строчку в лог
+                if changes:
+                    new_rows.append([
+                        date_str,
+                        time_str,
+                        client_key,
+                        article,
+                        format_excel_num(curr["price"]),
+                        format_excel_num(curr["costPrice"]),
+                        format_excel_num(curr["rPrice"]),
+                        curr["qty"],
+                        "Изменение (" + ", ".join(changes) + ")"
+                    ])
+
+        # 2. Проверяем товары, которые были раньше, но сегодня пропали из фида (например, цена стала 0)
+        for article, prev in prev_items.items():
+            if article not in current_items:
+                new_rows.append([
+                    date_str,
+                    time_str,
+                    client_key,
+                    article,
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "Позиция пропала из фида (цена 0 или удалена)"
+                ])
+
+    # Если есть новые строки — дописываем их в помесячный CSV-файл
+    if new_rows:
+        # Проверяем, существует ли уже файл, чтобы кодировку utf-8-sig (с меткой BOM для Excel) записать ТОЛЬКО в самом начале файла
+        file_exists = os.path.exists(csv_filename) and os.path.getsize(csv_filename) > 0
+        encoding_to_use = "utf-8" if file_exists else "utf-8-sig"
+
+        try:
+            with open(csv_filename, "a", encoding=encoding_to_use, newline="") as f:
+                writer = csv.writer(f, delimiter=";")
+                # Если файл создается впервые, сначала пишем строку с заголовками столбцов
+                if not file_exists:
+                    writer.writerow([
+                        "Дата", "Время (МСК)", "Client", "id (Артикул)",
+                        "price (API)", "costPrice", "rPrice", "qty", "Событие"
+                    ])
+                writer.writerows(new_rows)
+            print(f"[ЛОГ ИЗМЕНЕНИЙ] В файл {csv_filename} добавлено строк: {len(new_rows)}")
+        except Exception as e:
+            print(f"[ОШИБКА] Не удалось записать строки в {csv_filename}: {e}")
+    else:
+        print(f"[ЛОГ ИЗМЕНЕНИЙ] Изменений цен и остатков с прошлого запуска не обнаружено.")
+
+    # Сохраняем текущее состояние как "вчерашнее" для следующего запуска
+    try:
+        with open(STATE_FILENAME, "w", encoding="utf-8") as f:
+            json.dump(all_clients_snapshot, f, ensure_ascii=False)
+    except Exception as e:
+        print(f"[ОШИБКА] Не удалось сохранить {STATE_FILENAME}: {e}")
+
+
+# ==============================================================================
+# 6. ГЛАВНАЯ ТОЧКА ВХОДА В ПРОГРАММУ
 # ==============================================================================
 
 def main():
@@ -992,7 +1144,7 @@ def main():
     print("=========================================")
     if DEBUG_MODE:
         print("!!! РЕЖИМ ОТЛАДКИ ВКЛЮЧЕН !!!")
-        print(f"ВНИМАНИЕ: Скрипт обработает по {DEBUG_LIMIT} товаров каждого бренда для всех клиентов.")
+        print(f"ВНИМАНИЕ: Скрипт обработает по {DEBUG_LIMIT} товаров каждого бренда. Запись в лог и кэш отключена.")
     print("=========================================")
 
     # Шаг 1: Один раз скачиваем категории и товары из API
@@ -1019,12 +1171,14 @@ def main():
         need_global_pdf_update = True
         pdf_cache["last_update_month"] = today.month
 
-    # Сюда записываем ссылки, которые уже проверили за текущий запуск (чтобы не парсить их повторно для 2-го клиента)
     scraped_this_run = set()
+
+    # Сюда соберем актуальные цены и остатки по всем клиентам для записи в лог
+    all_clients_snapshot = {}
 
     # Шаг 3: По очереди генерируем фиды для всех клиентов из списка CLIENTS_CONFIG
     for client_cfg in CLIENTS_CONFIG:
-        generate_client_feeds(
+        client_snapshot = generate_client_feeds(
             client_cfg,
             prompower_products,
             unimat_products,
@@ -1033,12 +1187,16 @@ def main():
             need_global_pdf_update,
             scraped_this_run
         )
+        all_clients_snapshot[client_cfg["key"]] = client_snapshot
 
     # Шаг 4: Сохраняем обновленный кэш PDF на диск
     save_pdf_cache(pdf_cache)
 
+    # Шаг 5: Обновляем дельта-лог цен и остатков (только в обычном режиме, не в отладке)
+    update_price_stock_log(all_clients_snapshot)
+
     print("\n=========================================")
-    print(f"Все фиды успешно сформированы за {time.time() - start_time:.2f} секунд.")
+    print(f"Все задачи успешно выполнены за {time.time() - start_time:.2f} секунд.")
     print("=========================================")
 
 
