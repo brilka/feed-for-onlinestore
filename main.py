@@ -13,8 +13,8 @@
 4. Для каждого клиента (сначала Чип и Дип, затем Stoking) применяет индивидуальные правила расчета цен (costPrice и rPrice),
    форматирования комментариев и набора XML-тегов.
 5. Сохраняет готовые XML-файлы на GitHub Pages, а также создает для каждого клиента аварийный файл ZEROwarehouse с нулевыми остатками.
-6. Если режим отладки ВЫКЛЮЧЕН — сравнивает сегодняшние цены и остатки со вчерашними (из logs/last_state.json)
-   и дописывает все произошедшие изменения в помесячный файл logs/history_ГГГГ-ММ.csv для открытия в Excel.
+6. Если режим отладки ВЫКЛЮЧЕН — сравнивает сегодняшние цены (price с НДС 1.22, costPrice, rPrice) и остатки со вчерашними 
+   (из logs/last_state.json) и дописывает все произошедшие изменения в помесячный файл logs/history_ГГГГ-ММ.csv для открытия в Excel.
 """
 
 import requests
@@ -549,9 +549,9 @@ def process_products_for_client(products, brand, categories_dict, pdf_cache, nee
         # Шаг 4: Рассчитываем цены под финансовую модель текущего клиента
         cost_price, r_price = calculate_prices(price_val, mrp_percent, discount_percent, client_key)
 
-        # Записываем текущие цены и остаток этого товара в «снимок дня» (для лога изменений)
+        # Записываем текущие цены (price из API умножаем на НДС 1.22!) и остаток этого товара в «снимок дня» (для лога изменений)
         client_snapshot[article] = {
-            "price": round(price_val, 2),
+            "price": round(price_val * 1.22, 2),
             "costPrice": cost_price,
             "rPrice": r_price,
             "qty": instock
@@ -1010,7 +1010,7 @@ def generate_client_feeds(client_cfg, prompower_products, unimat_products, categ
 
 def update_price_stock_log(all_clients_snapshot):
     """
-    Сравнивает сегодняшние цены и остатки (all_clients_snapshot) со вчерашними (из logs/last_state.json).
+    Сравнивает сегодняшние цены (price с НДС 1.22, costPrice, rPrice) и остатки со вчерашними (из logs/last_state.json).
     В файл logs/history_ГГГГ-ММ.csv дописываются ТОЛЬКО те товары, по которым произошли изменения
     (новая позиция, изменилась какая-то цена/остаток, либо товар пропал из фида).
     В режиме отладки функция НЕ запускается, чтобы не портить боевую историю.
@@ -1041,7 +1041,7 @@ def update_price_stock_log(all_clients_snapshot):
     new_rows = []
     # Переводим названия полей в понятные русские подписи для столбца "Событие"
     field_labels = {
-        "price": "price (API)",
+        "price": "price (API с НДС)",
         "costPrice": "costPrice",
         "rPrice": "rPrice",
         "qty": "qty"
@@ -1118,7 +1118,7 @@ def update_price_stock_log(all_clients_snapshot):
                 if not file_exists:
                     writer.writerow([
                         "Дата", "Время (МСК)", "Client", "id (Артикул)",
-                        "price (API)", "costPrice", "rPrice", "qty", "Событие"
+                        "price (API с НДС)", "costPrice", "rPrice", "qty", "Событие"
                     ])
                 writer.writerows(new_rows)
             print(f"[ЛОГ ИЗМЕНЕНИЙ] В файл {csv_filename} добавлено строк: {len(new_rows)}")
