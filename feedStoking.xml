@@ -3,6 +3,7 @@
 <name>Prompower и Unimat</name>
 <company>Мотрум</company>
 <url>https://brilka.github.io/feed-for-onlinestore/</url>
+<!-- Дата и время создания XML-feed (МСК): 12:23 27.11.2026 -->
 <categories>
 <category id="44">ПЛК (программируемые логические контроллеры)</category>
 <category id="45" parentId="44">ПЛК PMP20</category>
@@ -4964,7 +4965,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>ESM263C61</id>
-<qty>370</qty>
+<qty>369</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C61</url>
 <price qty="1" costPrice="613.05" rPrice="735.66"/>
 <categoryId>4</categoryId>
@@ -5124,7 +5125,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>ESM263C633</id>
-<qty>415</qty>
+<qty>414</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C633</url>
 <price qty="1" costPrice="2773.47" rPrice="3328.16"/>
 <categoryId>4</categoryId>
@@ -6266,7 +6267,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>ESM263D63</id>
-<qty>14</qty>
+<qty>7</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263D63</url>
 <price qty="1" costPrice="2221.42" rPrice="2665.7"/>
 <categoryId>4</categoryId>
@@ -6392,7 +6393,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>ESM263C163</id>
-<qty>59</qty>
+<qty>58</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C163</url>
 <price qty="1" costPrice="1850.33" rPrice="2220.4"/>
 <categoryId>4</categoryId>
@@ -6456,7 +6457,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>ESM263C161</id>
-<qty>436</qty>
+<qty>435</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM263C161</url>
 <price qty="1" costPrice="516.47" rPrice="619.76"/>
 <categoryId>4</categoryId>
@@ -8088,7 +8089,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>ESM163C161</id>
-<qty>53</qty>
+<qty>51</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C161</url>
 <price qty="1" costPrice="696.42" rPrice="835.7"/>
 <categoryId>4</categoryId>
@@ -8536,7 +8537,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>ESM163C163</id>
-<qty>28</qty>
+<qty>30</qty>
 <url>https://www.prompower.ru/catalog/mcb/ESM163C163</url>
 <price qty="1" costPrice="2391.2" rPrice="2869.44"/>
 <categoryId>4</categoryId>
@@ -9898,7 +9899,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PGV2ME14</id>
-<qty>241</qty>
+<qty>240</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME14</url>
 <price qty="1" costPrice="3821.65" rPrice="4585.98"/>
 <categoryId>60</categoryId>
@@ -9928,7 +9929,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PGV2ME10</id>
-<qty>153</qty>
+<qty>152</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME10</url>
 <price qty="1" costPrice="3821.65" rPrice="4585.98"/>
 <categoryId>60</categoryId>
@@ -9958,7 +9959,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PGV2ME08</id>
-<qty>77</qty>
+<qty>76</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME08</url>
 <price qty="1" costPrice="3807.42" rPrice="4568.9"/>
 <categoryId>60</categoryId>
@@ -9988,7 +9989,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PGV2ME07</id>
-<qty>83</qty>
+<qty>72</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-motor-protection/PGV2ME07</url>
 <price qty="1" costPrice="3807.42" rPrice="4568.9"/>
 <categoryId>60</categoryId>
@@ -12010,7 +12011,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>RVJBLUE</id>
-<qty>4515</qty>
+<qty>4512</qty>
 <url>https://www.prompower.ru/catalog/relays/relays-accessories/RVJBLUE</url>
 <price qty="1" costPrice="630.33" rPrice="756.4"/>
 <categoryId>34</categoryId>
@@ -12030,7 +12031,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>RVJRED</id>
-<qty>6631</qty>
+<qty>6628</qty>
 <url>https://www.prompower.ru/catalog/relays/relays-accessories/RVJRED</url>
 <price qty="1" costPrice="630.33" rPrice="756.4"/>
 <categoryId>34</categoryId>
@@ -12050,7 +12051,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>CPSEM05PS</id>
-<qty>0</qty>
+<qty>1</qty>
 <url>https://www.prompower.ru/catalog/servo/servo-accessories/CPSEM05PS</url>
 <price qty="1" costPrice="1703.72" rPrice="1942.24"/>
 <categoryId>55</categoryId>
@@ -15386,7 +15387,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>NDR48024</id>
-<qty>78</qty>
+<qty>77</qty>
 <url>https://www.prompower.ru/catalog/power-supply/power-ndr/NDR48024</url>
 <price qty="1" costPrice="10296.8" rPrice="12356.16"/>
 <categoryId>30</categoryId>
@@ -24677,7 +24678,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PGVAE11</id>
-<qty>107</qty>
+<qty>93</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-auxilliary-contacts/PGVAE11</url>
 <price qty="1" costPrice="1067.5" rPrice="1281.0"/>
 <categoryId>61</categoryId>
@@ -28282,7 +28283,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>KT112D08PAD350TA</id>
-<qty>72</qty>
+<qty>71</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KT112D08PAD350TA</url>
 <price qty="1" costPrice="1776.12" rPrice="2131.34"/>
 <categoryId>76</categoryId>
@@ -28412,7 +28413,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>KT118D16PBD355TA</id>
-<qty>150</qty>
+<qty>149</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KT118D16PBD355TA</url>
 <price qty="1" costPrice="2010.97" rPrice="2413.16"/>
 <categoryId>76</categoryId>
@@ -28620,7 +28621,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>KJ112D04PAD350TA</id>
-<qty>908</qty>
+<qty>907</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ112D04PAD350TA</url>
 <price qty="1" costPrice="1776.12" rPrice="2131.34"/>
 <categoryId>76</categoryId>
@@ -29610,7 +29611,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>KJ208D02PAD345TA</id>
-<qty>78</qty>
+<qty>76</qty>
 <url>https://www.prompower.ru/catalog/inductive-sensors/KJ208D02PAD345TA</url>
 <price qty="1" costPrice="2009.95" rPrice="2411.94"/>
 <categoryId>76</categoryId>
@@ -29713,7 +29714,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>KJTJ8A3TA</id>
-<qty>358</qty>
+<qty>355</qty>
 <url>https://www.prompower.ru/catalog/sensor-cables/KJTJ8A3TA</url>
 <price qty="1" costPrice="1006.5" rPrice="1207.8"/>
 <categoryId>36</categoryId>
@@ -35182,7 +35183,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PP2RF08SL</id>
-<qty>2819</qty>
+<qty>2797</qty>
 <url>https://www.prompower.ru/catalog/relays/relay-terminal/PP2RF08SL</url>
 <price qty="1" costPrice="616.1" rPrice="739.32"/>
 <categoryId>23</categoryId>
@@ -36647,7 +36648,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PLC1D18M7</id>
-<qty>124</qty>
+<qty>123</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D18M7</url>
 <price qty="1" costPrice="1937.77" rPrice="2325.32"/>
 <categoryId>62</categoryId>
@@ -36746,7 +36747,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PLC1D32BD</id>
-<qty>21</qty>
+<qty>19</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-contactors/PLC1D32BD</url>
 <price qty="1" costPrice="7613.82" rPrice="9136.58"/>
 <categoryId>62</categoryId>
@@ -37428,7 +37429,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PLP1K1210BD</id>
-<qty>88</qty>
+<qty>67</qty>
 <url>https://www.prompower.ru/catalog/pulse-nka/pulse-mini-contactors/PLP1K1210BD</url>
 <price qty="1" costPrice="4068.7" rPrice="4882.44"/>
 <categoryId>63</categoryId>
@@ -38592,7 +38593,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PMP01E16X</id>
-<qty>6</qty>
+<qty>8</qty>
 <url>https://www.prompower.ru/catalog/plc/plc-pmp301-modules/PMP01E16X</url>
 <price qty="1" costPrice="5929.84" rPrice="6760.02"/>
 <categoryId>74</categoryId>
@@ -38619,7 +38620,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PMP01E16YR</id>
-<qty>0</qty>
+<qty>2</qty>
 <url>https://www.prompower.ru/catalog/plc/plc-pmp301-modules/PMP01E16YR</url>
 <price qty="1" costPrice="6311.89" rPrice="7195.56"/>
 <categoryId>74</categoryId>
@@ -95483,7 +95484,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PD100AB022</id>
-<qty>22</qty>
+<qty>21</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd100/PD100AB022</url>
 <price qty="1" costPrice="9531.25" rPrice="10590.28"/>
 <categoryId>13</categoryId>
@@ -96241,7 +96242,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PD150A4075B</id>
-<qty>32</qty>
+<qty>28</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd150/PD150A4075B</url>
 <price qty="1" costPrice="20698.32" rPrice="24837.98"/>
 <categoryId>70</categoryId>
@@ -96670,7 +96671,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PD210A4015B</id>
-<qty>34</qty>
+<qty>27</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4015B</url>
 <price qty="1" costPrice="18766.65" rPrice="22519.98"/>
 <categoryId>49</categoryId>
@@ -96744,7 +96745,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PD210A4040B</id>
-<qty>130</qty>
+<qty>129</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd210/PD210A4040B</url>
 <price qty="1" costPrice="25121.83" rPrice="30146.2"/>
 <categoryId>49</categoryId>
@@ -96892,7 +96893,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PD310A4075B</id>
-<qty>69</qty>
+<qty>66</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4075B</url>
 <price qty="1" costPrice="49995.6" rPrice="59994.72"/>
 <categoryId>42</categoryId>
@@ -100683,7 +100684,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PD310A4015B</id>
-<qty>85</qty>
+<qty>84</qty>
 <url>https://www.prompower.ru/catalog/inverters/pd310/PD310A4015B</url>
 <price qty="1" costPrice="25717.6" rPrice="30861.12"/>
 <categoryId>42</categoryId>
@@ -103575,7 +103576,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PG2R2SDC24</id>
-<qty>3338</qty>
+<qty>3316</qty>
 <url>https://www.prompower.ru/catalog/relays/common-relays/PG2R2SDC24</url>
 <price qty="1" costPrice="538.83" rPrice="646.6"/>
 <categoryId>10</categoryId>
@@ -103831,7 +103832,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PG2RVSR700DC24</id>
-<qty>8022</qty>
+<qty>8002</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR700DC24</url>
 <price qty="1" costPrice="886.53" rPrice="1063.84"/>
 <categoryId>11</categoryId>
@@ -103895,7 +103896,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PG2RVSR700AC230</id>
-<qty>9266</qty>
+<qty>9264</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR700AC230</url>
 <price qty="1" costPrice="1104.1" rPrice="1324.92"/>
 <categoryId>11</categoryId>
@@ -103959,7 +103960,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PG2RVSR500DC24</id>
-<qty>5513</qty>
+<qty>5512</qty>
 <url>https://www.prompower.ru/catalog/relays/thin-relays/PG2RVSR500DC24</url>
 <price qty="1" costPrice="949.57" rPrice="1139.48"/>
 <categoryId>11</categoryId>
@@ -111020,7 +111021,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PSM6G130CS20B221P5</id>
-<qty>1</qty>
+<qty>0</qty>
 <url>https://www.prompower.ru/catalog/servo/servo-motors/PSM6G130CS20B221P5</url>
 <price qty="1" costPrice="39560.11" rPrice="45098.52"/>
 <categoryId>53</categoryId>
@@ -114677,7 +114678,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PSD5C120P4PTA</id>
-<qty>8</qty>
+<qty>7</qty>
 <url>https://www.prompower.ru/catalog/servo/servo-drivers/PSD5C120P4PTA</url>
 <price qty="1" costPrice="26686.96" rPrice="30423.14"/>
 <categoryId>54</categoryId>
@@ -114714,7 +114715,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PSD5C120P7PTA</id>
-<qty>15</qty>
+<qty>14</qty>
 <url>https://www.prompower.ru/catalog/servo/servo-drivers/PSD5C120P7PTA</url>
 <price qty="1" costPrice="27210.28" rPrice="31019.72"/>
 <categoryId>54</categoryId>
@@ -114973,7 +114974,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PSD5C141P5PTA</id>
-<qty>13</qty>
+<qty>12</qty>
 <url>https://www.prompower.ru/catalog/servo/servo-drivers/PSD5C141P5PTA</url>
 <price qty="1" costPrice="48629.84" rPrice="55438.02"/>
 <categoryId>54</categoryId>
@@ -133437,7 +133438,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>PKLB100N</id>
-<qty>262</qty>
+<qty>261</qty>
 <url>https://www.prompower.ru/catalog/photo-sensors/PKLB100N</url>
 <price qty="1" costPrice="3062.2" rPrice="3402.44"/>
 <categoryId>16</categoryId>
@@ -156234,7 +156235,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>UN3921AJ000AA0</id>
-<qty>714</qty>
+<qty>711</qty>
 <price qty="1" costPrice="763.04" rPrice="869.86"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -156675,7 +156676,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>UN2314HF320XB0</id>
-<qty>46</qty>
+<qty>47</qty>
 <price qty="1" costPrice="22494.02" rPrice="25643.18"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -157507,7 +157508,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>UN3071KA010AA0</id>
-<qty>56</qty>
+<qty>55</qty>
 <price qty="1" costPrice="20044.39" rPrice="22850.6"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -159320,7 +159321,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>UN2211BH320XB0</id>
-<qty>205</qty>
+<qty>198</qty>
 <price qty="1" costPrice="10689.98" rPrice="12186.58"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>
@@ -159372,7 +159373,7 @@ rPrice – рекомендуемая (прайсовая) цена продаж
 </offer>
 <offer>
 <id>UN2221BH320XB0</id>
-<qty>44</qty>
+<qty>41</qty>
 <price qty="1" costPrice="10689.98" rPrice="12186.58"/>
 <picture>https://unimat-russia.ru/uploads/product-1654003344077-0.4960815358606392.png</picture>
 <picture>https://unimat-russia.ru/uploads/product-1654005665354-0.5424921694625866.jpg</picture>

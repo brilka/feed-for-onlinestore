@@ -3,6 +3,7 @@
 <name>Prompower и Unimat</name>
 <company>Мотрум</company>
 <url>https://brilka.github.io/feed-for-onlinestore/</url>
+<!-- Дата и время создания XML-feed (МСК): 12:23 27.11.2026 -->
 <categories>
 <category id="44">ПЛК (программируемые логические контроллеры)</category>
 <category id="45" parentId="44">ПЛК PMP20</category>
